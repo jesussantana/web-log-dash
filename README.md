@@ -21,7 +21,7 @@ Com Científic de Dades se t'ha proporcionat accés als registres-Logs on queda 
   
 - Exercici 3:
   - Geolocalitza les IP's. Aqui tens una pagina de interes: 
-  - [IP2Locattion](https://blog.ip2location.com/knowledge-base/how-to-add-a-sub-account-in-ip2location/)
+  - [ip2geotools](https://pypi.org/project/ip2geotools/)
 
 ### Nivell 3
 
