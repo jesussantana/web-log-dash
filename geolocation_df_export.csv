@@ -3,7 +3,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 66.249.76.216,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 5.255.253.53,RU,Russia,MOW,Moscow,Moscow,125009,Europe/Moscow,55.7527,37.6172,0
 157.55.35.112,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-193.111.141.116,DE,Germany,NW,North Rhine-Westphalia,DÃ¼sseldorf,40472,Europe/Berlin,51.2705,6.8144,0
+193.111.141.116,DE,Germany,NW,North Rhine-Westphalia,Düsseldorf,40472,Europe/Berlin,51.2705,6.8144,0
 5.10.83.71,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
 180.76.5.223,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 180.76.6.148,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
@@ -271,7 +271,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 157.55.33.83,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 218.30.103.53,CN,China,BJ,Beijing,Beijing,null,Asia/Shanghai,39.9288,116.3889,0
 218.30.103.65,CN,China,BJ,Beijing,Beijing,null,Asia/Shanghai,39.9288,116.3889,0
-193.111.141.52,DE,Germany,NW,North Rhine-Westphalia,DÃ¼sseldorf,40472,Europe/Berlin,51.2705,6.8144,0
+193.111.141.52,DE,Germany,NW,North Rhine-Westphalia,Düsseldorf,40472,Europe/Berlin,51.2705,6.8144,0
 89.144.228.198,AT,Austria,null,null,null,null,Europe/Vienna,48.2,16.3667,0
 202.46.58.35,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 144.76.95.232,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
@@ -281,7 +281,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 66.249.76.28,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 157.56.93.63,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 123.125.71.28,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-188.86.209.243,ES,Spain,GA,Galicia,A CoruÃ±a,15004,Europe/Madrid,43.3656,-8.4043,0
+188.86.209.243,ES,Spain,GA,Galicia,A Coruña,15004,Europe/Madrid,43.3656,-8.4043,0
 80.30.71.64,ES,Spain,NC,Navarre,Pamplona,31008,Europe/Madrid,42.8158,-1.6404,0
 95.39.151.173,ES,Spain,VC,Valencia,Villena,03400,Europe/Madrid,38.6373,-0.8657,0
 81.45.52.213,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
@@ -305,14 +305,14 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 157.55.32.57,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 195.53.212.39,ES,Spain,MD,Madrid,Paracuellos de Jarama,28860,Europe/Madrid,40.5034,-3.524,0
 94.23.164.2,DE,Germany,HE,Hesse,Limburg an der Lahn,65549,Europe/Berlin,50.383,8.0611,0
-92.57.150.53,ES,Spain,AS,Principality of Asturias,GijÃ³n,33211,Europe/Madrid,43.5357,-5.6615,0
-87.219.152.35,ES,Spain,GA,Galicia,A CoruÃ±a,15009,Europe/Madrid,43.3656,-8.4043,0
-95.16.123.205,ES,Spain,AN,Andalusia,MÃ¡laga,29009,Europe/Madrid,36.7182,-4.4192,0
+92.57.150.53,ES,Spain,AS,Principality of Asturias,Gijón,33211,Europe/Madrid,43.5357,-5.6615,0
+87.219.152.35,ES,Spain,GA,Galicia,A Coruña,15009,Europe/Madrid,43.3656,-8.4043,0
+95.16.123.205,ES,Spain,AN,Andalusia,Málaga,29009,Europe/Madrid,36.7182,-4.4192,0
 202.46.57.82,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 93.186.202.239,GB,United Kingdom,ENG,England,Sheffield,S2,Europe/London,53.3831,-1.4601,0
 220.181.108.75,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 93.186.202.241,GB,United Kingdom,ENG,England,Sheffield,S2,Europe/London,53.3831,-1.4601,0
-193.111.141.134,DE,Germany,NW,North Rhine-Westphalia,DÃ¼sseldorf,40472,Europe/Berlin,51.2705,6.8144,0
+193.111.141.134,DE,Germany,NW,North Rhine-Westphalia,Düsseldorf,40472,Europe/Berlin,51.2705,6.8144,0
 157.56.229.88,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 65.55.219.151,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 77.230.62.118,ES,Spain,CT,Catalonia,Barcelona,08001,Europe/Madrid,41.3949,2.1756,0
@@ -320,7 +320,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 88.16.248.34,ES,Spain,CT,Catalonia,Vallromanes,08188,Europe/Madrid,41.5355,2.3084,0
 199.30.24.79,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 186.108.178.203,AR,Argentina,S,Santa Fe,Rosario,2000,America/Argentina/Cordoba,-32.9541,-60.6636,0
-88.0.203.148,ES,Spain,CL,Castille and LeÃ³n,Laguna de Duero,47140,Europe/Madrid,41.5815,-4.7233,0
+88.0.203.148,ES,Spain,CL,Castille and León,Laguna de Duero,47140,Europe/Madrid,41.5815,-4.7233,0
 88.31.143.254,ES,Spain,MD,Madrid,Madrid,28045,Europe/Madrid,40.4143,-3.7016,0
 157.55.32.154,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 195.76.9.222,ES,Spain,CT,Catalonia,Barcelona,08025,Europe/Madrid,41.3891,2.1611,0
@@ -331,24 +331,24 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 84.77.154.62,ES,Spain,AN,Andalusia,Maracena,18200,Europe/Madrid,37.2076,-3.6349,0
 65.55.219.153,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 65.55.215.64,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-88.16.245.229,ES,Spain,AS,Principality of Asturias,GijÃ³n,33212,Europe/Madrid,43.5357,-5.6615,0
+88.16.245.229,ES,Spain,AS,Principality of Asturias,Gijón,33212,Europe/Madrid,43.5357,-5.6615,0
 202.46.48.17,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-94.23.167.218,DE,Germany,SL,Saarland,SaarbrÃ¼cken,66119,Europe/Berlin,49.2087,7.0202,0
+94.23.167.218,DE,Germany,SL,Saarland,Saarbrücken,66119,Europe/Berlin,49.2087,7.0202,0
 66.249.76.220,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-194.98.70.135,FR,France,IDF,ÃŽle-de-France,Clamart,92140,Europe/Paris,48.803,2.2669,0
+194.98.70.135,FR,France,IDF,Île-de-France,Clamart,92140,Europe/Paris,48.803,2.2669,0
 220.181.108.108,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 66.249.65.236,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-95.62.55.142,ES,Spain,GA,Galicia,A CoruÃ±a,15004,Europe/Madrid,43.3656,-8.4043,0
+95.62.55.142,ES,Spain,GA,Galicia,A Coruña,15004,Europe/Madrid,43.3656,-8.4043,0
 85.62.233.162,ES,Spain,MD,Madrid,Madrid,28017,Europe/Madrid,40.4143,-3.7016,0
 87.220.174.115,ES,Spain,AR,Aragon,Zaragoza,50003,Europe/Madrid,41.6574,-0.8764,0
-2.138.206.93,ES,Spain,MD,Madrid,AlcorcÃ³n,28924,Europe/Madrid,40.3458,-3.8249,0
+2.138.206.93,ES,Spain,MD,Madrid,Alcorcón,28924,Europe/Madrid,40.3458,-3.8249,0
 66.249.79.236,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 37.14.191.76,ES,Spain,VC,Valencia,Valencia,46017,Europe/Madrid,39.4705,-0.3765,0
 195.242.218.133,UA,Ukraine,30,Kyiv City,Kyiv,03186,Europe/Kiev,50.4332,30.5219,0
 198.143.133.154,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-85.152.25.7,ES,Spain,AS,Principality of Asturias,AvilÃ©s,33405,Europe/Madrid,43.5611,-5.9191,0
-94.23.163.182,DE,Germany,SL,Saarland,SaarbrÃ¼cken,66119,Europe/Berlin,49.2087,7.0202,0
-89.7.2.189,ES,Spain,GA,Galicia,A CoruÃ±a,15177,Europe/Madrid,43.3656,-8.4043,0
+85.152.25.7,ES,Spain,AS,Principality of Asturias,Avilés,33405,Europe/Madrid,43.5611,-5.9191,0
+94.23.163.182,DE,Germany,SL,Saarland,Saarbrücken,66119,Europe/Berlin,49.2087,7.0202,0
+89.7.2.189,ES,Spain,GA,Galicia,A Coruña,15177,Europe/Madrid,43.3656,-8.4043,0
 157.55.32.186,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 173.252.110.115,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 81.45.52.152,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
@@ -369,7 +369,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 185.10.104.196,null,null,null,null,null,null,Europe/Vaduz,47.0,8.0,0
 181.67.176.253,PE,Peru,LIM,Lima region,Lurin,null,America/Lima,-12.2866,-76.8707,0
 24.230.50.166,US,United States,SD,South Dakota,Sioux Falls,57105,America/Chicago,43.5235,-96.7385,725
-190.100.112.14,CL,Chile,VS,Region de Valparaiso,ViÃ±a del Mar,null,America/Santiago,-33.0081,-71.5197,0
+190.100.112.14,CL,Chile,VS,Region de Valparaiso,Viña del Mar,null,America/Santiago,-33.0081,-71.5197,0
 202.46.49.19,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 119.63.193.196,JP,Japan,null,null,null,null,Asia/Tokyo,35.69,139.69,0
 12.14.13.130,US,United States,VA,Virginia,Great Falls,22066,America/New_York,39.0045,-77.3062,511
@@ -389,16 +389,16 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 199.30.20.157,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 95.120.124.90,ES,Spain,CM,Castille-La Mancha,Santa Cruz de Mudela,13730,Europe/Madrid,38.6424,-3.4665,0
 195.135.250.117,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
-94.23.161.188,DE,Germany,SL,Saarland,SaarbrÃ¼cken,66119,Europe/Berlin,49.2087,7.0202,0
+94.23.161.188,DE,Germany,SL,Saarland,Saarbrücken,66119,Europe/Berlin,49.2087,7.0202,0
 69.61.47.114,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 162.210.196.98,US,United States,VA,Virginia,Arlington,22201,America/New_York,38.8865,-77.0911,511
-193.111.141.44,DE,Germany,NW,North Rhine-Westphalia,DÃ¼sseldorf,40472,Europe/Berlin,51.2705,6.8144,0
+193.111.141.44,DE,Germany,NW,North Rhine-Westphalia,Düsseldorf,40472,Europe/Berlin,51.2705,6.8144,0
 83.61.143.67,ES,Spain,PV,Basque Country,Deba,20820,Europe/Madrid,43.2954,-2.356,0
 85.58.107.85,ES,Spain,EX,Extremadura,Oliva de la Frontera,06120,Europe/Madrid,38.2745,-6.9241,0
 65.55.217.211,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 188.143.232.111,RU,Russia,null,null,null,null,Europe/Moscow,55.7386,37.6068,0
 220.181.108.92,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-186.28.57.228,CO,Colombia,DC,Bogota D.C.,BogotÃ¡,111311,America/Bogota,4.6493,-74.0617,0
+186.28.57.228,CO,Colombia,DC,Bogota D.C.,Bogotá,111311,America/Bogota,4.6493,-74.0617,0
 83.60.172.180,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 88.24.50.157,ES,Spain,CT,Catalonia,Barcelona,08013,Europe/Madrid,41.3891,2.1611,0
 81.45.53.125,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
@@ -431,7 +431,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 157.55.33.87,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 65.55.213.66,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 88.7.42.225,ES,Spain,MD,Madrid,Galapagar,28260,Europe/Madrid,40.5783,-4.0043,0
-84.125.10.108,ES,Spain,CL,Castille and LeÃ³n,Salamanca,37003,Europe/Madrid,40.961,-5.6566,0
+84.125.10.108,ES,Spain,CL,Castille and León,Salamanca,37003,Europe/Madrid,40.961,-5.6566,0
 89.140.9.2,ES,Spain,CT,Catalonia,Barcelona,08014,Europe/Madrid,41.3891,2.1611,0
 79.157.136.90,ES,Spain,PV,Basque Country,Sopela,48600,Europe/Madrid,43.3789,-2.9831,0
 157.56.92.172,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
@@ -467,7 +467,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 83.32.40.92,ES,Spain,CM,Castille-La Mancha,Ciudad Real,13005,Europe/Madrid,38.9862,-3.93,0
 88.1.121.54,ES,Spain,AR,Aragon,Santa Engracia,50669,Europe/Madrid,42.3169,-0.6452,0
 79.108.16.33,ES,Spain,AN,Andalusia,Cadiz,11011,Europe/Madrid,36.526,-6.2968,0
-217.216.120.71,ES,Spain,AN,Andalusia,AlmerÃ­a,04001,Europe/Madrid,36.8344,-2.461,0
+217.216.120.71,ES,Spain,AN,Andalusia,Almería,04001,Europe/Madrid,36.8344,-2.461,0
 37.58.71.199,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
 157.55.36.49,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 199.30.25.197,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
@@ -524,7 +524,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 199.30.20.158,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 188.165.195.156,FR,France,null,null,null,null,Europe/Paris,48.8582,2.3387,0
 189.238.243.227,MX,Mexico,SON,Sonora,Cananea,84620,America/Hermosillo,30.8962,-110.2733,0
-77.224.117.60,ES,Spain,AN,Andalusia,MÃ¡laga,29005,Europe/Madrid,36.7182,-4.4192,0
+77.224.117.60,ES,Spain,AN,Andalusia,Málaga,29005,Europe/Madrid,36.7182,-4.4192,0
 178.60.200.142,ES,Spain,GA,Galicia,Oleiros,15176,Europe/Madrid,43.322,-8.3351,0
 31.4.236.138,ES,Spain,VC,Valencia,Valencia,46007,Europe/Madrid,39.4705,-0.3765,0
 95.23.142.9,ES,Spain,VC,Valencia,Borriol,12190,Europe/Madrid,40.0425,-0.0702,0
@@ -582,7 +582,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 66.249.75.188,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 54.193.116.249,US,United States,CA,California,San Francisco,94119,America/Los_Angeles,37.7794,-122.4176,807
 157.56.92.148,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-194.179.126.144,ES,Spain,AN,Andalusia,MÃ¡laga,29001,Europe/Madrid,36.7286,-4.4337,0
+194.179.126.144,ES,Spain,AN,Andalusia,Málaga,29001,Europe/Madrid,36.7286,-4.4337,0
 157.55.36.52,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 157.55.34.183,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 181.151.21.227,CO,Colombia,null,null,null,null,America/Bogota,4.5981,-74.0799,0
@@ -608,7 +608,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 92.249.127.111,UA,Ukraine,30,Kyiv City,Kyiv,03186,Europe/Kiev,50.4332,30.5219,0
 190.156.65.201,CO,Colombia,CUN,Cundinamarca,Soacha,250053,America/Bogota,4.5819,-74.2196,0
 54.193.116.190,US,United States,CA,California,San Francisco,94119,America/Los_Angeles,37.7794,-122.4176,807
-200.95.170.204,MX,Mexico,NLE,Nuevo LeÃ³n,Monterrey,64723,America/Monterrey,25.6752,-100.3197,0
+200.95.170.204,MX,Mexico,NLE,Nuevo León,Monterrey,64723,America/Monterrey,25.6752,-100.3197,0
 125.206.34.195,JP,Japan,13,Tokyo,Tokyo,104-0041,Asia/Tokyo,35.6704,139.7822,0
 157.55.32.185,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 198.50.242.189,CA,Canada,null,null,null,null,America/Toronto,43.6319,-79.3716,0
@@ -641,7 +641,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 202.46.62.105,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 46.222.232.224,ES,Spain,CT,Catalonia,Pineda de Mar,08397,Europe/Madrid,41.6207,2.6933,0
 123.125.71.20,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-194.98.70.142,FR,France,IDF,ÃŽle-de-France,Clamart,92140,Europe/Paris,48.803,2.2669,0
+194.98.70.142,FR,France,IDF,Île-de-France,Clamart,92140,Europe/Paris,48.803,2.2669,0
 85.13.148.22,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
 188.87.251.64,ES,Spain,AR,Aragon,Zaragoza,50021,Europe/Madrid,41.6574,-0.8764,0
 186.4.234.178,EC,Ecuador,P,Provincia de Pichincha,Quito,null,America/Guayaquil,-0.2143,-78.5017,0
@@ -673,11 +673,11 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 173.252.77.112,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 173.252.77.117,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 173.252.77.118,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-81.35.113.21,ES,Spain,AS,Principality of Asturias,AvilÃ©s,33402,Europe/Madrid,43.5611,-5.9191,0
+81.35.113.21,ES,Spain,AS,Principality of Asturias,Avilés,33402,Europe/Madrid,43.5611,-5.9191,0
 185.25.27.178,ES,Spain,VC,Valencia,Valencia,46009,Europe/Madrid,39.4705,-0.3765,0
 192.185.83.114,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 88.24.43.102,ES,Spain,CT,Catalonia,Badalona,08911,Europe/Madrid,41.45,2.2474,0
-217.130.150.116,ES,Spain,AN,Andalusia,MÃ¡laga,29018,Europe/Madrid,36.7182,-4.4192,0
+217.130.150.116,ES,Spain,AN,Andalusia,Málaga,29018,Europe/Madrid,36.7182,-4.4192,0
 31.4.217.49,ES,Spain,AN,Andalusia,Seville,41016,Europe/Madrid,37.3834,-5.9789,0
 69.171.237.13,US,United States,DE,Delaware,Newark,19717,America/New_York,39.6876,-75.7482,504
 69.171.237.12,US,United States,DE,Delaware,Newark,19717,America/New_York,39.6876,-75.7482,504
@@ -707,7 +707,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 66.220.152.112,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 91.117.177.64,ES,Spain,GA,Galicia,Ribeira,15960,Europe/Madrid,42.2361,-7.7115,0
 81.45.52.165,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
-31.4.210.153,ES,Spain,CL,Castille and LeÃ³n,null,null,Europe/Madrid,41.6534,-4.7234,0
+31.4.210.153,ES,Spain,CL,Castille and León,null,null,Europe/Madrid,41.6534,-4.7234,0
 157.55.35.96,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 75.101.183.6,US,United States,VA,Virginia,Ashburn,20149,America/New_York,39.0481,-77.4729,511
 157.56.92.147,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
@@ -719,12 +719,12 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 123.125.71.35,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 84.78.142.178,ES,Spain,AR,Aragon,Teruel,44002,Europe/Madrid,40.3456,-1.1065,0
 202.46.56.40,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-212.79.145.77,ES,Spain,AN,Andalusia,MÃ¡laga,29012,Europe/Madrid,36.7182,-4.4192,0
+212.79.145.77,ES,Spain,AN,Andalusia,Málaga,29012,Europe/Madrid,36.7182,-4.4192,0
 199.30.20.13,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 81.45.52.118,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 199.30.26.221,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 220.181.108.86,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-188.86.106.161,ES,Spain,CT,Catalonia,Sant Cugat del VallÃ¨s,08173,Europe/Madrid,41.4585,2.0836,0
+188.86.106.161,ES,Spain,CT,Catalonia,Sant Cugat del Vallès,08173,Europe/Madrid,41.4585,2.0836,0
 202.46.49.37,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 81.45.52.39,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 81.45.55.174,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
@@ -734,7 +734,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 46.25.107.101,ES,Spain,CT,Catalonia,Barcelona,08004,Europe/Madrid,41.3891,2.1611,0
 79.155.251.65,ES,Spain,GA,Galicia,Burela de Cabo,27880,Europe/Madrid,43.65,-7.4,0
 65.55.217.251,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
-188.87.40.180,ES,Spain,AN,Andalusia,MÃ¡laga,29009,Europe/Madrid,36.7182,-4.4192,0
+188.87.40.180,ES,Spain,AN,Andalusia,Málaga,29009,Europe/Madrid,36.7182,-4.4192,0
 83.247.136.48,ES,Spain,CT,Catalonia,Barcelona,08014,Europe/Madrid,41.3891,2.1611,0
 220.181.108.85,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 88.17.253.16,ES,Spain,AN,Andalusia,Peligros,18210,Europe/Madrid,37.2323,-3.629,0
@@ -756,7 +756,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 90.175.210.151,ES,Spain,MC,Murcia,Abaran,30550,Europe/Madrid,38.2055,-1.3991,0
 83.34.21.208,ES,Spain,VC,Valencia,Valencia,46184,Europe/Madrid,39.5868,-0.543,0
 195.235.177.135,ES,Spain,MD,Madrid,Villaviciosa de Odon,28670,Europe/Madrid,40.3562,-3.8965,0
-87.220.67.220,ES,Spain,CL,Castille and LeÃ³n,Salamanca,37006,Europe/Madrid,40.961,-5.6566,0
+87.220.67.220,ES,Spain,CL,Castille and León,Salamanca,37006,Europe/Madrid,40.961,-5.6566,0
 31.4.199.114,ES,Spain,AN,Andalusia,Seville,41007,Europe/Madrid,37.3834,-5.9789,0
 77.240.116.140,ES,Spain,MD,Madrid,Madrid,28021,Europe/Madrid,40.4143,-3.7016,0
 79.154.189.99,ES,Spain,CT,Catalonia,Tarragona,43007,Europe/Madrid,41.1167,1.25,0
@@ -782,7 +782,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 31.4.197.102,ES,Spain,AN,Andalusia,Seville,41007,Europe/Madrid,37.3834,-5.9789,0
 91.229.73.10,GB,United Kingdom,null,null,null,null,Europe/London,51.4964,-0.1224,0
 95.18.92.219,ES,Spain,MD,Madrid,Alcobendas,28100,Europe/Madrid,40.5458,-3.6443,0
-95.129.152.247,ES,Spain,AN,Andalusia,MÃ¡laga,29002,Europe/Madrid,36.7182,-4.4192,0
+95.129.152.247,ES,Spain,AN,Andalusia,Málaga,29002,Europe/Madrid,36.7182,-4.4192,0
 85.152.64.112,ES,Spain,AS,Principality of Asturias,Pola de Siero,33510,Europe/Madrid,43.3923,-5.6634,0
 85.52.90.106,ES,Spain,CT,Catalonia,Girona,17004,Europe/Madrid,41.9813,2.8257,0
 195.128.174.142,DK,Denmark,null,null,null,null,Europe/Copenhagen,55.7123,12.0564,0
@@ -795,21 +795,21 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 213.96.109.27,ES,Spain,CM,Castille-La Mancha,Albacete,02001,Europe/Madrid,38.9967,-1.8561,0
 79.152.174.99,ES,Spain,CT,Catalonia,l'Escala,17130,Europe/Madrid,42.132,3.1213,0
 81.45.52.27,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
-85.152.161.241,ES,Spain,AS,Principality of Asturias,GijÃ³n,33204,Europe/Madrid,43.5357,-5.6615,0
+85.152.161.241,ES,Spain,AS,Principality of Asturias,Gijón,33204,Europe/Madrid,43.5357,-5.6615,0
 79.144.117.80,ES,Spain,MD,Madrid,Boadilla del Monte,28660,Europe/Madrid,40.405,-3.8783,0
-62.175.136.122,ES,Spain,AN,Andalusia,MÃ¡laga,29018,Europe/Madrid,36.7182,-4.4192,0
+62.175.136.122,ES,Spain,AN,Andalusia,Málaga,29018,Europe/Madrid,36.7182,-4.4192,0
 81.45.52.175,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
-2.139.201.28,ES,Spain,VC,Valencia,CastellÃ³ de la Plana,12002,Europe/Madrid,40.2086,0.0311,0
-62.175.139.150,ES,Spain,AN,Andalusia,MÃ¡laga,29018,Europe/Madrid,36.7182,-4.4192,0
+2.139.201.28,ES,Spain,VC,Valencia,Castelló de la Plana,12002,Europe/Madrid,40.2086,0.0311,0
+62.175.139.150,ES,Spain,AN,Andalusia,Málaga,29018,Europe/Madrid,36.7182,-4.4192,0
 108.168.250.12,US,United States,TX,Texas,Dallas,75270,America/Chicago,32.7787,-96.8218,623
-88.2.219.180,ES,Spain,CL,Castille and LeÃ³n,Humienta,09620,Europe/Madrid,42.2276,-3.6837,0
+88.2.219.180,ES,Spain,CL,Castille and León,Humienta,09620,Europe/Madrid,42.2276,-3.6837,0
 92.57.179.84,ES,Spain,AN,Andalusia,Chiclana de la Frontera,11130,Europe/Madrid,36.4234,-6.1517,0
 93.188.49.5,ES,Spain,MD,Madrid,Madrid,28034,Europe/Madrid,40.4143,-3.7016,0
 79.153.119.82,ES,Spain,CT,Catalonia,el Prat de Llobregat,08820,Europe/Madrid,41.3278,2.0947,0
 195.53.125.133,ES,Spain,MD,Madrid,Madrid,28034,Europe/Madrid,40.4143,-3.7016,0
 46.222.1.120,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 84.123.136.127,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
-31.4.212.174,ES,Spain,CL,Castille and LeÃ³n,null,null,Europe/Madrid,41.6534,-4.7234,0
+31.4.212.174,ES,Spain,CL,Castille and León,null,null,Europe/Madrid,41.6534,-4.7234,0
 188.87.104.65,ES,Spain,PV,Basque Country,Pasaia,20110,Europe/Madrid,43.3224,-1.9295,0
 84.125.196.127,ES,Spain,AN,Andalusia,Chiclana de la Frontera,11130,Europe/Madrid,36.4234,-6.1517,0
 89.131.143.211,ES,Spain,AN,Andalusia,Moguer,21800,Europe/Madrid,37.2756,-6.8385,0
@@ -825,8 +825,8 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 83.55.163.245,ES,Spain,MD,Madrid,Madrid,28025,Europe/Madrid,40.4143,-3.7016,0
 95.61.224.248,ES,Spain,CN,Canary Islands,Puerto del Carmen,35510,Atlantic/Canary,28.9231,-13.6658,0
 123.125.71.36,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-37.72.26.102,ES,Spain,CT,Catalonia,SÃºria,08260,Europe/Madrid,41.8333,1.75,0
-188.85.190.74,ES,Spain,AN,Andalusia,MÃ¡laga,29190,Europe/Madrid,36.7182,-4.4192,0
+37.72.26.102,ES,Spain,CT,Catalonia,Súria,08260,Europe/Madrid,41.8333,1.75,0
+188.85.190.74,ES,Spain,AN,Andalusia,Málaga,29190,Europe/Madrid,36.7182,-4.4192,0
 80.174.30.140,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 46.222.207.8,ES,Spain,MD,Madrid,Tres Cantos,28760,Europe/Madrid,40.6009,-3.7081,0
 46.26.144.183,ES,Spain,MD,Madrid,Madrid,28004,Europe/Madrid,40.4143,-3.7016,0
@@ -834,11 +834,11 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 31.4.176.158,ES,Spain,MD,Madrid,Madrid,28043,Europe/Madrid,40.4143,-3.7016,0
 80.30.252.245,ES,Spain,VC,Valencia,Torrent,46900,Europe/Madrid,39.4371,-0.4655,0
 80.34.184.155,ES,Spain,CM,Castille-La Mancha,Illescas,45200,Europe/Madrid,40.1221,-3.847,0
-188.77.50.119,ES,Spain,RI,La Rioja,LogroÃ±o,26008,Europe/Madrid,42.4667,-2.45,0
+188.77.50.119,ES,Spain,RI,La Rioja,Logroño,26008,Europe/Madrid,42.4667,-2.45,0
 88.148.36.75,ES,Spain,MC,Murcia,Bullas,30180,Europe/Madrid,38.0467,-1.6723,0
 87.111.221.104,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 90.174.2.142,ES,Spain,MD,Madrid,Madrid,28019,Europe/Madrid,40.4143,-3.7016,0
-31.4.212.216,ES,Spain,CL,Castille and LeÃ³n,null,null,Europe/Madrid,41.6534,-4.7234,0
+31.4.212.216,ES,Spain,CL,Castille and León,null,null,Europe/Madrid,41.6534,-4.7234,0
 84.122.205.249,ES,Spain,VC,Valencia,Valencia,46020,Europe/Madrid,39.4705,-0.3765,0
 90.174.2.66,ES,Spain,MD,Madrid,Madrid,28019,Europe/Madrid,40.4143,-3.7016,0
 85.54.246.191,ES,Spain,GA,Galicia,null,36640,Europe/Madrid,42.6667,-8.6667,0
@@ -855,15 +855,15 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 80.33.124.163,ES,Spain,MD,Madrid,Madrid,28050,Europe/Madrid,40.4143,-3.7016,0
 81.45.53.56,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 202.46.48.25,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-62.151.76.106,ES,Spain,CL,Castille and LeÃ³n,Medina del Campo,47400,Europe/Madrid,41.3124,-4.9141,0
+62.151.76.106,ES,Spain,CL,Castille and León,Medina del Campo,47400,Europe/Madrid,41.3124,-4.9141,0
 62.174.80.74,ES,Spain,NC,Navarre,Pamplona,31009,Europe/Madrid,42.8158,-1.6404,0
-84.79.49.113,ES,Spain,AN,Andalusia,MÃ¡laga,29010,Europe/Madrid,36.7182,-4.4192,0
+84.79.49.113,ES,Spain,AN,Andalusia,Málaga,29010,Europe/Madrid,36.7182,-4.4192,0
 31.4.198.76,ES,Spain,AN,Andalusia,Seville,41007,Europe/Madrid,37.3834,-5.9789,0
 212.145.88.105,ES,Spain,CT,Catalonia,Castelldefels,08860,Europe/Madrid,41.2799,1.9733,0
 79.152.116.207,ES,Spain,GA,Galicia,Oleiros,15177,Europe/Madrid,43.3994,-8.3211,0
 31.4.177.158,ES,Spain,MD,Madrid,Madrid,28043,Europe/Madrid,40.4143,-3.7016,0
 194.179.72.81,ES,Spain,MD,Madrid,Madrid,28036,Europe/Madrid,40.4143,-3.7016,0
-77.27.64.233,ES,Spain,GA,Galicia,A CoruÃ±a,15010,Europe/Madrid,43.3713,-8.3961,0
+77.27.64.233,ES,Spain,GA,Galicia,A Coruña,15010,Europe/Madrid,43.3713,-8.3961,0
 213.143.61.213,ES,Spain,AN,Andalusia,Seville,41006,Europe/Madrid,37.3834,-5.9789,0
 2.137.213.20,ES,Spain,MD,Madrid,Madrid,28030,Europe/Madrid,40.4143,-3.7016,0
 79.153.241.109,ES,Spain,CN,Canary Islands,Corralejo,35660,Atlantic/Canary,28.7308,-13.8675,0
@@ -873,7 +873,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 46.25.132.18,ES,Spain,MD,Madrid,Madrid,28004,Europe/Madrid,40.4143,-3.7016,0
 81.45.52.41,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 62.87.30.66,ES,Spain,CT,Catalonia,Barcelona,08030,Europe/Madrid,41.3891,2.1611,0
-83.61.241.37,ES,Spain,GA,Galicia,A CoruÃ±a,15011,Europe/Madrid,43.3656,-8.4043,0
+83.61.241.37,ES,Spain,GA,Galicia,A Coruña,15011,Europe/Madrid,43.3656,-8.4043,0
 213.60.69.186,ES,Spain,GA,Galicia,Santiago de Compostela,15702,Europe/Madrid,42.8799,-8.5473,0
 81.45.52.48,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 157.55.34.175,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
@@ -893,7 +893,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 123.125.71.15,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 95.18.145.23,ES,Spain,EX,Extremadura,Pueblonuevo de Miramontes,10318,Europe/Madrid,40.0611,-5.373,0
 79.156.61.81,ES,Spain,MD,Madrid,Madrid,28027,Europe/Madrid,40.4143,-3.7016,0
-177.228.96.228,MX,Mexico,SIN,Sinaloa,CuliacÃ¡n,80058,America/Mazatlan,24.8601,-107.4744,0
+177.228.96.228,MX,Mexico,SIN,Sinaloa,Culiacán,80058,America/Mazatlan,24.8601,-107.4744,0
 89.131.163.68,ES,Spain,VC,Valencia,Crevillent,03330,Europe/Madrid,38.2499,-0.8097,0
 217.125.108.49,ES,Spain,CT,Catalonia,Barcelona,08017,Europe/Madrid,41.3891,2.1611,0
 84.120.107.168,ES,Spain,MC,Murcia,Murcia,30012,Europe/Madrid,37.9881,-1.1247,0
@@ -904,11 +904,11 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 81.44.116.67,ES,Spain,GA,Galicia,Sada,15160,Europe/Madrid,43.3562,-8.258,0
 63.147.126.185,US,United States,NV,Nevada,Las Vegas,89108,America/Los_Angeles,36.2038,-115.2255,839
 81.60.44.216,ES,Spain,AS,Principality of Asturias,Coana,33710,Europe/Madrid,43.5115,-6.751,0
-190.229.76.68,AR,Argentina,X,Cordoba,CÃ³rdoba,5000,America/Argentina/Cordoba,-31.4015,-64.1803,0
+190.229.76.68,AR,Argentina,X,Cordoba,Córdoba,5000,America/Argentina/Cordoba,-31.4015,-64.1803,0
 157.55.33.92,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-186.115.68.62,CO,Colombia,ATL,AtlÃ¡ntico,Barranquilla,080001,America/Bogota,10.9711,-74.7837,0
+186.115.68.62,CO,Colombia,ATL,Atlántico,Barranquilla,080001,America/Bogota,10.9711,-74.7837,0
 83.33.72.156,ES,Spain,MC,Murcia,Lorca,30800,Europe/Madrid,37.6712,-1.7017,0
-95.17.185.119,ES,Spain,CT,Catalonia,Vilafranca del PenedÃ¨s,08720,Europe/Madrid,41.3425,1.6979,0
+95.17.185.119,ES,Spain,CT,Catalonia,Vilafranca del Penedès,08720,Europe/Madrid,41.3425,1.6979,0
 88.8.201.76,ES,Spain,AN,Andalusia,Chiclana de la Frontera,11130,Europe/Madrid,36.4234,-6.1517,0
 2.139.249.224,ES,Spain,MD,Madrid,Madrid,28023,Europe/Madrid,40.4143,-3.7016,0
 81.202.103.206,ES,Spain,VC,Valencia,Vila-real,12540,Europe/Madrid,39.9333,-0.1018,0
@@ -918,8 +918,8 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 195.245.248.7,ES,Spain,MD,Madrid,Madrid,28038,Europe/Madrid,40.4143,-3.7016,0
 137.110.244.139,US,United States,CA,California,San Diego,92116,America/Los_Angeles,32.7651,-117.1276,825
 202.46.50.12,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-77.210.100.161,ES,Spain,CL,Castille and LeÃ³n,El Hoyo de Pinares,05250,Europe/Madrid,40.4985,-4.4266,0
-87.218.156.183,ES,Spain,AN,Andalusia,Coria del RÃ­o,41100,Europe/Madrid,37.2877,-6.0541,0
+77.210.100.161,ES,Spain,CL,Castille and León,El Hoyo de Pinares,05250,Europe/Madrid,40.4985,-4.4266,0
+87.218.156.183,ES,Spain,AN,Andalusia,Coria del Río,41100,Europe/Madrid,37.2877,-6.0541,0
 81.37.155.60,ES,Spain,MC,Murcia,Lorca,30800,Europe/Madrid,37.6712,-1.7017,0
 84.121.40.247,ES,Spain,VC,Valencia,Catarroja,46470,Europe/Madrid,39.4,-0.4,0
 193.43.252.252,UA,Ukraine,null,null,null,null,Europe/Kiev,50.4522,30.5287,0
@@ -931,7 +931,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 83.46.243.32,ES,Spain,CT,Catalonia,Barcelona,08016,Europe/Madrid,41.3891,2.1611,0
 81.45.55.152,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 84.123.168.153,ES,Spain,AN,Andalusia,Cadiz,11011,Europe/Madrid,36.526,-6.2968,0
-81.34.78.156,ES,Spain,CN,Canary Islands,GÃ¡ldar,35460,Atlantic/Canary,28.1069,-15.6005,0
+81.34.78.156,ES,Spain,CN,Canary Islands,Gáldar,35460,Atlantic/Canary,28.1069,-15.6005,0
 88.12.191.185,ES,Spain,PV,Basque Country,Bilbao,48004,Europe/Madrid,43.2626,-2.9238,0
 89.29.152.238,ES,Spain,CM,Castille-La Mancha,Almansa,02640,Europe/Madrid,38.8692,-1.0971,0
 88.26.227.110,ES,Spain,CT,Catalonia,Caldes de Montbui,08140,Europe/Madrid,41.6312,2.1606,0
@@ -982,13 +982,13 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 66.249.76.217,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 158.109.217.161,ES,Spain,CT,Catalonia,Badalona,08918,Europe/Madrid,41.45,2.2474,0
 213.98.133.235,ES,Spain,RI,La Rioja,Amer,17170,Europe/Madrid,42.0167,-2.6,0
-188.85.194.73,ES,Spain,AN,Andalusia,MÃ¡laga,29190,Europe/Madrid,36.7182,-4.4192,0
+188.85.194.73,ES,Spain,AN,Andalusia,Málaga,29190,Europe/Madrid,36.7182,-4.4192,0
 199.30.24.180,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 217.12.16.56,ES,Spain,AN,Andalusia,Seville,41020,Europe/Madrid,37.3834,-5.9789,0
 212.97.182.212,ES,Spain,NC,Navarre,Tudela,31500,Europe/Madrid,42.0617,-1.6045,0
 123.125.71.21,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 131.253.24.21,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-194.179.126.154,ES,Spain,AN,Andalusia,MÃ¡laga,29001,Europe/Madrid,36.7286,-4.4337,0
+194.179.126.154,ES,Spain,AN,Andalusia,Málaga,29001,Europe/Madrid,36.7286,-4.4337,0
 87.221.33.120,ES,Spain,MD,Madrid,Madrid,28042,Europe/Madrid,40.4143,-3.7016,0
 176.57.142.28,DE,Germany,HE,Hesse,Frankfurt am Main,60314,Europe/Berlin,50.1103,8.7147,0
 87.223.94.173,ES,Spain,AN,Andalusia,Chipiona,11550,Europe/Madrid,36.7366,-6.437,0
@@ -1005,32 +1005,32 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 202.46.62.24,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 82.145.216.124,GB,United Kingdom,null,null,null,null,Europe/London,51.4964,-0.1224,0
 188.77.46.81,ES,Spain,VC,Valencia,Alicante,03008,Europe/Madrid,38.3432,-0.4807,0
-189.135.71.208,MX,Mexico,MIC,MichoacÃ¡n,La Piedad,59389,America/Mexico_City,20.3365,-102.0411,0
-83.59.16.179,ES,Spain,GA,Galicia,A CoruÃ±a,15011,Europe/Madrid,43.3656,-8.4043,0
-213.60.23.219,ES,Spain,GA,Galicia,A CoruÃ±a,15002,Europe/Madrid,43.3656,-8.4043,0
+189.135.71.208,MX,Mexico,MIC,Michoacán,La Piedad,59389,America/Mexico_City,20.3365,-102.0411,0
+83.59.16.179,ES,Spain,GA,Galicia,A Coruña,15011,Europe/Madrid,43.3656,-8.4043,0
+213.60.23.219,ES,Spain,GA,Galicia,A Coruña,15002,Europe/Madrid,43.3656,-8.4043,0
 188.79.210.64,ES,Spain,VC,Valencia,Valencia,46003,Europe/Madrid,39.4705,-0.3765,0
 220.181.108.117,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-79.156.122.4,ES,Spain,CT,Catalonia,Sant Cugat del VallÃ¨s,08195,Europe/Madrid,41.4585,2.0836,0
-79.159.82.74,ES,Spain,RI,La Rioja,LogroÃ±o,26007,Europe/Madrid,42.4667,-2.45,0
+79.156.122.4,ES,Spain,CT,Catalonia,Sant Cugat del Vallès,08195,Europe/Madrid,41.4585,2.0836,0
+79.159.82.74,ES,Spain,RI,La Rioja,Logroño,26007,Europe/Madrid,42.4667,-2.45,0
 5.10.83.60,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
 5.10.83.14,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
 46.118.127.106,UA,Ukraine,46,L'vivs'ka Oblast',Lviv,79059,Europe/Kiev,49.8486,24.0323,0
 5.10.83.79,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
 5.10.83.2,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
 5.10.83.19,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
-84.125.222.120,ES,Spain,AN,Andalusia,El Puerto de Santa MarÃ­a,11500,Europe/Madrid,36.5904,-6.235,0
+84.125.222.120,ES,Spain,AN,Andalusia,El Puerto de Santa María,11500,Europe/Madrid,36.5904,-6.235,0
 87.222.207.174,ES,Spain,MD,Madrid,Ciempozuelos,28350,Europe/Madrid,40.1591,-3.621,0
 83.57.123.180,ES,Spain,GA,Galicia,Nigran,36350,Europe/Madrid,42.1518,-8.8021,0
 88.15.228.73,ES,Spain,GA,Galicia,Vigo,36205,Europe/Madrid,42.2338,-8.7252,0
 190.202.88.164,VE,Venezuela,A,Distrito Federal,null,null,America/Caracas,10.4826,-66.9779,0
 84.123.144.30,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 157.55.230.158,IE,Ireland,L,Leinster,Dublin,D02,Europe/Dublin,53.3338,-6.2488,0
-88.5.227.131,ES,Spain,CL,Castille and LeÃ³n,Burgos,09007,Europe/Madrid,42.3502,-3.6753,0
+88.5.227.131,ES,Spain,CL,Castille and León,Burgos,09007,Europe/Madrid,42.3502,-3.6753,0
 5.10.83.66,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
 65.55.219.147,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 5.10.83.29,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
 87.221.48.48,ES,Spain,AR,Aragon,Zaragoza,50007,Europe/Madrid,41.6574,-0.8764,0
-85.136.169.148,ES,Spain,VC,Valencia,CastellÃ³ de la Plana,12005,Europe/Madrid,40.2086,0.0311,0
+85.136.169.148,ES,Spain,VC,Valencia,Castelló de la Plana,12005,Europe/Madrid,40.2086,0.0311,0
 5.10.83.36,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
 5.10.83.74,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
 46.222.169.25,ES,Spain,AN,Andalusia,Seville,41019,Europe/Madrid,37.3834,-5.9789,0
@@ -1047,7 +1047,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 77.228.79.234,ES,Spain,VC,Valencia,Ibi,03440,Europe/Madrid,38.6253,-0.5722,0
 5.10.83.82,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
 186.53.90.100,UY,Uruguay,LA,Lavalleja,Minas,30000,America/Montevideo,-34.3775,-55.2383,0
-134.3.254.24,DE,Germany,BW,Baden-WÃ¼rttemberg,Ludwigsburg,71638,Europe/Berlin,48.8924,9.1876,0
+134.3.254.24,DE,Germany,BW,Baden-Württemberg,Ludwigsburg,71638,Europe/Berlin,48.8924,9.1876,0
 173.252.73.112,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 173.252.73.118,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 173.252.73.116,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
@@ -1073,13 +1073,13 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 198.144.116.21,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 5.10.83.11,NL,Netherlands,NH,North Holland,Amsterdam,1012,Europe/Amsterdam,52.3759,4.8975,0
 77.210.156.96,ES,Spain,CT,Catalonia,Vespella de Gaia,43763,Europe/Madrid,41.2026,1.3644,0
-79.154.3.44,ES,Spain,GA,Galicia,A CoruÃ±a,15002,Europe/Madrid,43.3656,-8.4043,0
+79.154.3.44,ES,Spain,GA,Galicia,A Coruña,15002,Europe/Madrid,43.3656,-8.4043,0
 2.136.17.138,ES,Spain,MD,Madrid,Madrid,28043,Europe/Madrid,40.4143,-3.7016,0
 157.55.33.107,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 83.59.106.101,ES,Spain,AN,Andalusia,Tomares,41940,Europe/Madrid,37.372,-6.0487,0
 37.218.75.127,ES,Spain,PV,Basque Country,null,48003,Europe/Madrid,43.2485,-2.921,0
-79.158.61.0,ES,Spain,CL,Castille and LeÃ³n,Villamuriel de Cerrato,34190,Europe/Madrid,41.9493,-4.5158,0
-62.42.118.227,ES,Spain,CL,Castille and LeÃ³n,Zamora,49019,Europe/Madrid,41.4997,-5.7418,0
+79.158.61.0,ES,Spain,CL,Castille and León,Villamuriel de Cerrato,34190,Europe/Madrid,41.9493,-4.5158,0
+62.42.118.227,ES,Spain,CL,Castille and León,Zamora,49019,Europe/Madrid,41.4997,-5.7418,0
 202.46.48.23,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 198.199.64.129,US,United States,NJ,New Jersey,North Bergen,07047,America/New_York,40.793,-74.0247,501
 117.41.186.10,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
@@ -1091,10 +1091,10 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 123.125.71.51,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 217.111.219.237,ES,Spain,MD,Madrid,Madrid,28001,Europe/Madrid,40.4171,-3.6839,0
 193.153.206.67,ES,Spain,AS,Principality of Asturias,Cangas del Narcea,33800,Europe/Madrid,43.1814,-6.5502,0
-92.56.215.79,ES,Spain,AN,Andalusia,MÃ¡laga,29713,Europe/Madrid,36.8976,-4.1455,0
+92.56.215.79,ES,Spain,AN,Andalusia,Málaga,29713,Europe/Madrid,36.8976,-4.1455,0
 83.49.12.226,ES,Spain,CT,Catalonia,Olot,17800,Europe/Madrid,42.181,2.4901,0
 82.130.165.120,ES,Spain,NC,Navarre,Pamplona,31013,Europe/Madrid,42.8153,-1.6399,0
-158.255.237.186,ES,Spain,EX,Extremadura,CÃ¡ceres,10004,Europe/Madrid,39.4774,-6.3816,0
+158.255.237.186,ES,Spain,EX,Extremadura,Cáceres,10004,Europe/Madrid,39.4774,-6.3816,0
 220.181.108.99,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 132.3.17.79,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 87.219.136.85,ES,Spain,PV,Basque Country,Portugalete,48920,Europe/Madrid,43.321,-3.0206,0
@@ -1119,7 +1119,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 65.55.52.115,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 157.56.229.187,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 66.249.66.178,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-212.170.111.11,ES,Spain,AN,Andalusia,El Puerto de Santa MarÃ­a,11500,Europe/Madrid,36.5904,-6.235,0
+212.170.111.11,ES,Spain,AN,Andalusia,El Puerto de Santa María,11500,Europe/Madrid,36.5904,-6.235,0
 31.4.182.223,ES,Spain,MD,Madrid,Madrid,28043,Europe/Madrid,40.4143,-3.7016,0
 83.56.168.143,ES,Spain,CN,Canary Islands,Arinaga,35118,Atlantic/Canary,27.8729,-15.429,0
 24.244.144.3,BS,Bahamas,FP,City of Freeport District,Freeport,null,America/Nassau,26.5355,-78.7028,0
@@ -1134,7 +1134,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 84.122.139.8,ES,Spain,AN,Andalusia,Cadiz,11012,Europe/Madrid,36.526,-6.2968,0
 72.14.199.208,US,United States,CA,California,Mountain View,94043,America/Los_Angeles,37.4043,-122.0748,807
 220.181.108.87,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-190.88.176.120,CW,CuraÃ§ao,null,null,Willemstad,null,America/Curacao,12.0975,-68.9177,0
+190.88.176.120,CW,Curaçao,null,null,Willemstad,null,America/Curacao,12.0975,-68.9177,0
 202.46.60.15,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 54.193.110.219,US,United States,CA,California,San Francisco,94119,America/Los_Angeles,37.7794,-122.4176,807
 80.37.230.56,ES,Spain,CT,Catalonia,Lliçà de Vall,08185,Europe/Madrid,41.5914,2.244,0
@@ -1173,17 +1173,17 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 202.46.55.29,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 62.14.253.58,ES,Spain,CT,Catalonia,Barcelona,08037,Europe/Madrid,41.3891,2.1611,0
 79.147.15.166,ES,Spain,MD,Madrid,Madrid,28005,Europe/Madrid,40.4143,-3.7016,0
-87.217.73.154,ES,Spain,CL,Castille and LeÃ³n,Valladolid,47014,Europe/Madrid,41.6534,-4.7234,0
+87.217.73.154,ES,Spain,CL,Castille and León,Valladolid,47014,Europe/Madrid,41.6534,-4.7234,0
 193.147.239.254,ES,Spain,VC,Valencia,Valencia,46008,Europe/Madrid,39.4705,-0.3765,0
 66.249.76.178,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-95.62.152.251,ES,Spain,MD,Madrid,Pozuelo de AlarcÃ³n,28224,Europe/Madrid,40.4329,-3.8134,0
+95.62.152.251,ES,Spain,MD,Madrid,Pozuelo de Alarcón,28224,Europe/Madrid,40.4329,-3.8134,0
 85.48.134.242,ES,Spain,CM,Castille-La Mancha,Toledo,45007,Europe/Madrid,39.8581,-4.0226,0
 195.77.16.215,ES,Spain,VC,Valencia,Valencia,46011,Europe/Madrid,39.4705,-0.3765,0
 173.252.112.116,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 173.252.112.112,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 77.75.77.11,CZ,Czechia,10,Hlavni mesto Praha,Prague,130 00,Europe/Prague,50.0766,14.5148,0
 65.55.52.89,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-88.178.110.118,FR,France,PAC,Provence-Alpes-CÃ´te d'Azur,Gemenos,13420,Europe/Paris,43.2927,5.63,0
+88.178.110.118,FR,France,PAC,Provence-Alpes-Côte d'Azur,Gemenos,13420,Europe/Paris,43.2927,5.63,0
 195.235.248.95,ES,Spain,MD,Madrid,Madrid,28020,Europe/Madrid,40.4143,-3.7016,0
 193.145.201.52,ES,Spain,VC,Valencia,Valencia,46035,Europe/Madrid,39.5,-0.4167,0
 78.237.100.185,FR,France,NAQ,Nouvelle-Aquitaine,Lavardac,47230,Europe/Paris,44.1815,0.2965,0
@@ -1193,16 +1193,16 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 195.57.42.1,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 213.143.49.51,ES,Spain,CT,Catalonia,Barcelona,08035,Europe/Madrid,41.3891,2.1611,0
 90.174.2.171,ES,Spain,MD,Madrid,Madrid,28019,Europe/Madrid,40.4143,-3.7016,0
-79.157.88.156,ES,Spain,MD,Madrid,San SebastiÃ¡n de los Reyes,28702,Europe/Madrid,40.5443,-3.6159,0
+79.157.88.156,ES,Spain,MD,Madrid,San Sebastián de los Reyes,28702,Europe/Madrid,40.5443,-3.6159,0
 2.139.145.206,ES,Spain,CT,Catalonia,Barcelona,08029,Europe/Madrid,41.3891,2.1611,0
 81.45.52.22,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 81.45.52.98,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 81.45.55.80,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 31.4.184.242,ES,Spain,CT,Catalonia,Barcelona,08020,Europe/Madrid,41.3891,2.1611,0
-31.4.212.43,ES,Spain,CL,Castille and LeÃ³n,null,null,Europe/Madrid,41.6534,-4.7234,0
+31.4.212.43,ES,Spain,CL,Castille and León,null,null,Europe/Madrid,41.6534,-4.7234,0
 92.58.136.35,ES,Spain,MC,Murcia,Abaran,30550,Europe/Madrid,38.2055,-1.3991,0
 80.31.55.141,ES,Spain,AN,Andalusia,Algeciras,11204,Europe/Madrid,36.1333,-5.4505,0
-79.109.106.230,ES,Spain,CL,Castille and LeÃ³n,Valladolid,47010,Europe/Madrid,41.6534,-4.7234,0
+79.109.106.230,ES,Spain,CL,Castille and León,Valladolid,47010,Europe/Madrid,41.6534,-4.7234,0
 199.58.86.206,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 193.144.127.13,ES,Spain,VC,Valencia,Valencia,46011,Europe/Madrid,39.4705,-0.3765,0
 202.46.57.80,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
@@ -1232,7 +1232,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 77.230.211.95,ES,Spain,CT,Catalonia,Moia,08180,Europe/Madrid,41.8113,2.0941,0
 64.71.199.80,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 208.184.81.30,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-82.226.40.145,FR,France,IDF,ÃŽle-de-France,Les Lilas,93260,Europe/Paris,48.8799,2.4206,0
+82.226.40.145,FR,France,IDF,Île-de-France,Les Lilas,93260,Europe/Paris,48.8799,2.4206,0
 220.181.108.103,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 81.45.55.137,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 80.102.121.219,ES,Spain,MD,Madrid,Madrid,28019,Europe/Madrid,40.4143,-3.7016,0
@@ -1282,7 +1282,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 31.4.195.39,ES,Spain,AN,Andalusia,Seville,41007,Europe/Madrid,37.3834,-5.9789,0
 199.30.24.24,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 83.50.233.200,ES,Spain,MD,Madrid,Madrid,28047,Europe/Madrid,40.4143,-3.7016,0
-92.103.65.162,FR,France,IDF,ÃŽle-de-France,Levallois-Perret,92300,Europe/Paris,48.8948,2.2874,0
+92.103.65.162,FR,France,IDF,Île-de-France,Levallois-Perret,92300,Europe/Paris,48.8948,2.2874,0
 66.220.152.116,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 173.252.110.114,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 173.252.80.116,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
@@ -1294,8 +1294,8 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 123.125.71.53,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 202.46.62.21,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 84.95.88.100,IL,Israel,TA,Tel Aviv,Ramat HaSharon,null,Asia/Jerusalem,32.1477,34.8507,0
-193.111.141.54,DE,Germany,NW,North Rhine-Westphalia,DÃ¼sseldorf,40472,Europe/Berlin,51.2705,6.8144,0
-31.4.208.153,ES,Spain,CL,Castille and LeÃ³n,null,null,Europe/Madrid,41.6534,-4.7234,0
+193.111.141.54,DE,Germany,NW,North Rhine-Westphalia,Düsseldorf,40472,Europe/Berlin,51.2705,6.8144,0
+31.4.208.153,ES,Spain,CL,Castille and León,null,null,Europe/Madrid,41.6534,-4.7234,0
 95.22.161.100,ES,Spain,NC,Navarre,Pitillas,31392,Europe/Madrid,42.4242,-1.6244,0
 88.163.184.76,FR,France,IDF,Île-de-France,Sèvres,92310,Europe/Paris,48.8229,2.2176,0
 83.63.165.156,ES,Spain,AN,Andalusia,Bollullos par del Condado,21710,Europe/Madrid,37.3413,-6.5397,0
@@ -1306,7 +1306,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 178.60.32.187,ES,Spain,GA,Galicia,Boimorto,32102,Europe/Madrid,42.444,-7.9072,0
 209.141.44.60,US,United States,NV,Nevada,Las Vegas,89101,America/Los_Angeles,36.1685,-115.1164,839
 157.55.33.88,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-194.179.126.131,ES,Spain,AN,Andalusia,MÃ¡laga,29001,Europe/Madrid,36.7286,-4.4337,0
+194.179.126.131,ES,Spain,AN,Andalusia,Málaga,29001,Europe/Madrid,36.7286,-4.4337,0
 193.148.98.2,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 213.143.51.143,ES,Spain,CT,Catalonia,Barcelona,08035,Europe/Madrid,41.3891,2.1611,0
 81.45.52.66,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
@@ -1316,13 +1316,13 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 87.221.63.152,ES,Spain,AN,Andalusia,Granada,18014,Europe/Madrid,37.1879,-3.604,0
 220.181.108.81,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 88.11.41.24,ES,Spain,CN,Canary Islands,Ingenio,35250,Atlantic/Canary,27.9209,-15.4406,0
-194.224.227.74,ES,Spain,AN,Andalusia,AlmerÃ­a,04009,Europe/Madrid,36.8344,-2.461,0
-84.97.121.93,FR,France,BRE,Brittany,QuimperlÃ©,29300,Europe/Paris,47.8667,-3.55,0
+194.224.227.74,ES,Spain,AN,Andalusia,Almería,04009,Europe/Madrid,36.8344,-2.461,0
+84.97.121.93,FR,France,BRE,Brittany,Quimperlé,29300,Europe/Paris,47.8667,-3.55,0
 88.2.192.15,ES,Spain,MD,Madrid,Madrid,28043,Europe/Madrid,40.4143,-3.7016,0
 188.76.238.56,ES,Spain,MD,Madrid,Madrid,28041,Europe/Madrid,40.4143,-3.7016,0
 62.174.23.75,ES,Spain,MD,Madrid,Madrid,28025,Europe/Madrid,40.4143,-3.7016,0
 77.206.71.92,FR,France,BRE,Brittany,Concarneau,29900,Europe/Paris,47.875,-3.9224,0
-85.58.126.136,ES,Spain,AN,Andalusia,MÃ¡laga,29016,Europe/Madrid,36.7182,-4.4192,0
+85.58.126.136,ES,Spain,AN,Andalusia,Málaga,29016,Europe/Madrid,36.7182,-4.4192,0
 216.12.205.122,SG,Singapore,null,null,Singapore,18,Asia/Singapore,1.2929,103.8547,0
 79.108.154.2,ES,Spain,VC,Valencia,Valencia,46011,Europe/Madrid,39.4705,-0.3765,0
 158.227.146.53,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
@@ -1369,60 +1369,60 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 31.221.222.2,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 81.45.55.8,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 77.231.99.155,ES,Spain,MD,Madrid,Madrid,28005,Europe/Madrid,40.4143,-3.7016,0
-189.102.61.50,BR,Brazil,SP,Sao Paulo,SÃ£o Paulo,01000,America/Sao_Paulo,-23.63,-46.6322,0
-207.45.249.157,FR,France,IDF,ÃŽle-de-France,Paris,75018,Europe/Paris,48.8543,2.3527,0
+189.102.61.50,BR,Brazil,SP,Sao Paulo,São Paulo,01000,America/Sao_Paulo,-23.63,-46.6322,0
+207.45.249.157,FR,France,IDF,Île-de-France,Paris,75018,Europe/Paris,48.8543,2.3527,0
 83.138.209.238,ES,Spain,CN,Canary Islands,Las Palmas de Gran Canaria,35015,Atlantic/Canary,28.1,-15.4113,0
 194.30.106.50,ES,Spain,CT,Catalonia,Sant Sadurni d'Anoia,08770,Europe/Madrid,41.4167,1.7833,0
 157.55.32.149,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 157.55.35.94,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-37.15.118.53,ES,Spain,CT,Catalonia,Mollet del VallÃ¨s,08100,Europe/Madrid,41.5382,2.2154,0
+37.15.118.53,ES,Spain,CT,Catalonia,Mollet del Vallès,08100,Europe/Madrid,41.5382,2.2154,0
 201.141.122.37,MX,Mexico,null,null,null,null,America/Mexico_City,19.4371,-99.0111,0
 84.76.230.188,ES,Spain,CM,Castille-La Mancha,Daimiel,13250,Europe/Madrid,39.07,-3.615,0
 200.12.141.223,CL,Chile,VS,Region de Valparaiso,Villa Alemana,null,America/Santiago,-33.045,-71.368,0
-46.27.187.15,ES,Spain,AN,Andalusia,MÃ¡laga,29009,Europe/Madrid,36.7182,-4.4192,0
+46.27.187.15,ES,Spain,AN,Andalusia,Málaga,29009,Europe/Madrid,36.7182,-4.4192,0
 123.125.71.44,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 87.223.246.201,ES,Spain,AR,Aragon,Zaragoza,50018,Europe/Madrid,41.6574,-0.8764,0
 170.252.72.61,ES,Spain,MD,Madrid,Madrid,28027,Europe/Madrid,40.4143,-3.7016,0
 83.32.204.207,ES,Spain,MD,Madrid,Madrid,28002,Europe/Madrid,40.4143,-3.7016,0
 217.130.246.205,ES,Spain,MD,Madrid,Madrid,28041,Europe/Madrid,40.4143,-3.7016,0
 213.4.98.163,ES,Spain,VC,Valencia,Vila-real,12540,Europe/Madrid,39.9333,-0.1018,0
-84.77.145.197,ES,Spain,AN,Andalusia,JaÃ©n,23003,Europe/Madrid,37.7685,-3.7974,0
+84.77.145.197,ES,Spain,AN,Andalusia,Jaén,23003,Europe/Madrid,37.7685,-3.7974,0
 189.177.119.40,MX,Mexico,JAL,Jalisco,Puerto Vallarta,48290,America/Mexico_City,20.6707,-105.216,0
 84.127.132.156,ES,Spain,CB,Cantabria,Torrelavega,39300,Europe/Madrid,43.3503,-4.0456,0
-80.12.81.109,FR,France,IDF,ÃŽle-de-France,Paris,75007,Europe/Paris,48.8543,2.3527,0
+80.12.81.109,FR,France,IDF,Île-de-France,Paris,75007,Europe/Paris,48.8543,2.3527,0
 83.173.150.197,ES,Spain,RI,La Rioja,Haro,26200,Europe/Madrid,42.5763,-2.8476,0
 85.86.161.201,ES,Spain,PV,Basque Country,Errenteria,20100,Europe/Madrid,43.3167,-1.9031,0
 82.198.52.218,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 95.19.238.239,ES,Spain,CT,Catalonia,Cunit,08251,Europe/Madrid,40.7833,1.85,0
 220.181.108.101,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 87.217.157.137,ES,Spain,PV,Basque Country,Bilbao,48510,Europe/Madrid,43.3,-3.0,0
-83.38.92.110,ES,Spain,MD,Madrid,AlcorcÃ³n,28925,Europe/Madrid,40.3458,-3.8249,0
+83.38.92.110,ES,Spain,MD,Madrid,Alcorcón,28925,Europe/Madrid,40.3458,-3.8249,0
 95.121.191.224,ES,Spain,MD,Madrid,Sevilla La Nueva,28609,Europe/Madrid,40.3478,-4.0273,0
 83.40.115.200,ES,Spain,AR,Aragon,Zaragoza,50016,Europe/Madrid,41.6574,-0.8764,0
 2.137.103.28,ES,Spain,MD,Madrid,Villaviciosa de Odon,28670,Europe/Madrid,40.3562,-3.8965,0
 83.47.115.241,ES,Spain,VC,Valencia,Valencia,46010,Europe/Madrid,39.4705,-0.3765,0
 95.122.200.134,ES,Spain,MD,Madrid,Majadahonda,28220,Europe/Madrid,40.4735,-3.8718,0
 192.95.12.31,CA,Canada,QC,Quebec,Montreal,H3A,America/Toronto,45.5063,-73.5795,0
-95.61.125.48,ES,Spain,AN,Andalusia,Ãšbeda,23400,Europe/Madrid,38.0133,-3.3751,0
+95.61.125.48,ES,Spain,AN,Andalusia,Úbeda,23400,Europe/Madrid,38.0133,-3.3751,0
 85.85.118.208,ES,Spain,PV,Basque Country,Urnieta,20130,Europe/Madrid,43.2479,-1.9957,0
 81.45.52.97,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
-79.156.59.251,ES,Spain,CL,Castille and LeÃ³n,Guardo,34880,Europe/Madrid,42.7871,-4.8502,0
+79.156.59.251,ES,Spain,CL,Castille and León,Guardo,34880,Europe/Madrid,42.7871,-4.8502,0
 195.245.193.60,DK,Denmark,84,Capital Region,Frederiksberg,2000,Europe/Copenhagen,55.6769,12.5268,0
 213.9.195.250,ES,Spain,AS,Principality of Asturias,Oviedo,33010,Europe/Madrid,43.359,-5.8444,0
 213.143.50.174,ES,Spain,CT,Catalonia,Barcelona,08035,Europe/Madrid,41.3891,2.1611,0
-95.61.57.214,ES,Spain,AS,Principality of Asturias,AvilÃ©s,33403,Europe/Madrid,43.5611,-5.9191,0
+95.61.57.214,ES,Spain,AS,Principality of Asturias,Avilés,33403,Europe/Madrid,43.5611,-5.9191,0
 83.213.247.54,ES,Spain,PV,Basque Country,Bermeo,48370,Europe/Madrid,43.4209,-2.7215,0
 195.55.142.49,ES,Spain,MD,Madrid,Getafe,28907,Europe/Madrid,40.3084,-3.7326,0
-187.66.191.109,BR,Brazil,SP,Sao Paulo,SÃ£o Carlos,13560,America/Sao_Paulo,-21.9065,-47.8747,0
-88.9.139.151,ES,Spain,CT,Catalonia,Sant Cugat del VallÃ¨s,08172,Europe/Madrid,41.4585,2.0836,0
+187.66.191.109,BR,Brazil,SP,Sao Paulo,São Carlos,13560,America/Sao_Paulo,-21.9065,-47.8747,0
+88.9.139.151,ES,Spain,CT,Catalonia,Sant Cugat del Vallès,08172,Europe/Madrid,41.4585,2.0836,0
 95.20.249.164,ES,Spain,NC,Navarre,Estella-Lizarra,31200,Europe/Madrid,42.6718,-2.0324,0
 186.1.15.210,NI,Nicaragua,MN,Departamento de Managua,Managua,null,America/Managua,12.1518,-86.2711,0
 95.17.239.206,ES,Spain,CT,Catalonia,Coma-ruga,43880,Europe/Madrid,41.1799,1.5254,0
 31.4.196.17,ES,Spain,AN,Andalusia,Seville,41007,Europe/Madrid,37.3834,-5.9789,0
-95.63.60.249,ES,Spain,MD,Madrid,AlcorcÃ³n,28922,Europe/Madrid,40.3458,-3.8249,0
+95.63.60.249,ES,Spain,MD,Madrid,Alcorcón,28922,Europe/Madrid,40.3458,-3.8249,0
 88.3.2.185,ES,Spain,CT,Catalonia,Barcelona,08029,Europe/Madrid,41.3891,2.1611,0
 31.4.183.187,ES,Spain,MD,Madrid,Madrid,28043,Europe/Madrid,40.4143,-3.7016,0
-80.39.169.253,ES,Spain,RI,La Rioja,LogroÃ±o,26006,Europe/Madrid,42.4667,-2.45,0
+80.39.169.253,ES,Spain,RI,La Rioja,Logroño,26006,Europe/Madrid,42.4667,-2.45,0
 95.60.154.238,ES,Spain,IB,Balearic Islands,Palma,07008,Europe/Madrid,39.5661,2.6484,0
 37.15.206.237,ES,Spain,CT,Catalonia,Lleida,25001,Europe/Madrid,41.6167,0.6222,0
 31.4.206.54,ES,Spain,CT,Catalonia,Barcelona,08009,Europe/Madrid,41.3891,2.1611,0
@@ -1440,7 +1440,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 183.13.150.55,CN,China,GD,Guangdong,Shenzhen,null,Asia/Shanghai,22.5333,114.1333,0
 91.187.64.165,AD,Andorra,08,Escaldes-Engordany,Escaldes-Engordany,null,Europe/Andorra,42.5,1.5333,0
 85.57.110.124,ES,Spain,CT,Catalonia,Barcelona,08028,Europe/Madrid,41.3891,2.1611,0
-85.136.65.63,ES,Spain,AN,Andalusia,MÃ¡laga,29006,Europe/Madrid,36.7182,-4.4192,0
+85.136.65.63,ES,Spain,AN,Andalusia,Málaga,29006,Europe/Madrid,36.7182,-4.4192,0
 157.55.43.26,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 93.156.200.74,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 84.124.249.41,ES,Spain,VC,Valencia,Valencia,46007,Europe/Madrid,39.4705,-0.3765,0
@@ -1450,15 +1450,15 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 123.125.71.41,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 195.57.84.106,ES,Spain,CT,Catalonia,Barcelona,08035,Europe/Madrid,41.3891,2.1611,0
 81.61.137.210,ES,Spain,CT,Catalonia,Badalona,08913,Europe/Madrid,41.45,2.2474,0
-31.4.212.26,ES,Spain,CL,Castille and LeÃ³n,null,null,Europe/Madrid,41.6534,-4.7234,0
+31.4.212.26,ES,Spain,CL,Castille and León,null,null,Europe/Madrid,41.6534,-4.7234,0
 88.11.134.78,ES,Spain,CT,Catalonia,Vilassar de Mar,08340,Europe/Madrid,41.5096,2.3936,0
-79.119.204.31,RO,Romania,MM,MaramureÅŸ,Viseu de Sus,435700,Europe/Bucharest,47.7139,24.4343,0
+79.119.204.31,RO,Romania,MM,Maramureş,Viseu de Sus,435700,Europe/Bucharest,47.7139,24.4343,0
 194.118.55.9,AT,Austria,5,Salzburg,Salzburg,5020,Europe/Vienna,47.8008,13.0443,0
 68.43.159.123,US,United States,MI,Michigan,Warren,48093,America/Detroit,42.5148,-82.9967,505
 46.24.190.90,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 62.57.176.78,ES,Spain,CT,Catalonia,Barcelona,08013,Europe/Madrid,41.3891,2.1611,0
 81.61.2.96,ES,Spain,MD,Madrid,Madrid,28020,Europe/Madrid,40.4143,-3.7016,0
-80.29.19.229,ES,Spain,AN,Andalusia,JaÃ©n,23009,Europe/Madrid,37.7685,-3.7974,0
+80.29.19.229,ES,Spain,AN,Andalusia,Jaén,23009,Europe/Madrid,37.7685,-3.7974,0
 80.30.104.201,ES,Spain,CT,Catalonia,Tarragona,43001,Europe/Madrid,41.1167,1.25,0
 199.16.156.125,US,United States,GA,Georgia,Atlanta,30308,America/New_York,33.7697,-84.3754,524
 46.236.24.53,GB,United Kingdom,null,null,null,null,Europe/London,51.4964,-0.1224,0
@@ -1477,16 +1477,16 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 85.192.91.253,ES,Spain,CT,Catalonia,Barcelona,08013,Europe/Madrid,41.3891,2.1611,0
 120.236.0.202,CN,China,GD,Guangdong,Shenzhen,null,Asia/Shanghai,22.5333,114.1333,0
 37.15.24.103,ES,Spain,CT,Catalonia,Tiana,08391,Europe/Madrid,41.482,2.267,0
-81.60.173.144,ES,Spain,CT,Catalonia,MatarÃ³,08302,Europe/Madrid,41.5459,2.4436,0
+81.60.173.144,ES,Spain,CT,Catalonia,Mataró,08302,Europe/Madrid,41.5459,2.4436,0
 62.117.197.230,ES,Spain,MD,Madrid,Madrid,28038,Europe/Madrid,40.4143,-3.7016,0
 95.172.74.37,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5132,-0.0961,0
 80.59.58.36,ES,Spain,CM,Castille-La Mancha,Albacete,02005,Europe/Madrid,38.9967,-1.8561,0
 80.102.216.130,ES,Spain,MD,Madrid,Tres Cantos,28760,Europe/Madrid,40.6009,-3.7081,0
 88.0.8.11,ES,Spain,MD,Madrid,Las Rozas de Madrid,28232,Europe/Madrid,40.4955,-3.8707,0
 88.8.49.22,ES,Spain,MD,Madrid,Madrid,28004,Europe/Madrid,40.4143,-3.7016,0
-88.19.25.90,ES,Spain,AS,Principality of Asturias,GijÃ³n,33204,Europe/Madrid,43.5357,-5.6615,0
+88.19.25.90,ES,Spain,AS,Principality of Asturias,Gijón,33204,Europe/Madrid,43.5357,-5.6615,0
 88.31.131.220,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
-109.208.120.233,FR,France,PAC,Provence-Alpes-CÃ´te d'Azur,Marseille,13000,Europe/Paris,43.2832,5.3718,0
+109.208.120.233,FR,France,PAC,Provence-Alpes-Côte d'Azur,Marseille,13000,Europe/Paris,43.2832,5.3718,0
 77.226.72.99,ES,Spain,CT,Catalonia,Barcelona,08029,Europe/Madrid,41.3891,2.1611,0
 216.107.155.114,US,United States,IL,Illinois,Chicago,60185,America/Chicago,41.8879,-88.1995,602
 80.73.153.149,ES,Spain,MC,Murcia,Archivel,30195,Europe/Madrid,38.0739,-2.0015,0
@@ -1499,8 +1499,8 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 107.21.14.116,US,United States,VA,Virginia,Ashburn,20149,America/New_York,39.0481,-77.4729,511
 80.26.232.117,ES,Spain,CN,Canary Islands,Corralejo,35660,Atlantic/Canary,28.7308,-13.8675,0
 81.203.65.27,ES,Spain,VC,Valencia,Valencia,46022,Europe/Madrid,39.4705,-0.3765,0
-77.27.141.43,ES,Spain,GA,Galicia,A CoruÃ±a,15006,Europe/Madrid,43.3656,-8.4043,0
-95.62.63.204,ES,Spain,GA,Galicia,A CoruÃ±a,15005,Europe/Madrid,43.3656,-8.4043,0
+77.27.141.43,ES,Spain,GA,Galicia,A Coruña,15006,Europe/Madrid,43.3656,-8.4043,0
+95.62.63.204,ES,Spain,GA,Galicia,A Coruña,15005,Europe/Madrid,43.3656,-8.4043,0
 212.8.64.74,ES,Spain,CB,Cantabria,Castro Urdiales,39700,Europe/Madrid,43.3798,-3.2101,0
 84.123.156.106,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 85.136.44.127,ES,Spain,AN,Andalusia,Granada,18014,Europe/Madrid,37.1879,-3.604,0
@@ -1513,17 +1513,17 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 80.102.11.79,ES,Spain,MD,Madrid,Villalbilla,28810,Europe/Madrid,40.4304,-3.299,0
 88.26.69.3,ES,Spain,MD,Madrid,Mostoles,28935,Europe/Madrid,40.3223,-3.8621,0
 79.108.219.65,ES,Spain,VC,Valencia,Vinaros,12500,Europe/Madrid,40.4693,0.479,0
-95.19.46.169,ES,Spain,RI,La Rioja,NÃ¡jera,26300,Europe/Madrid,42.4182,-2.7287,0
+95.19.46.169,ES,Spain,RI,La Rioja,Nájera,26300,Europe/Madrid,42.4182,-2.7287,0
 95.122.67.43,ES,Spain,MD,Madrid,Madrid,28214,Europe/Madrid,40.1628,-3.7287,0
 85.60.237.93,ES,Spain,GA,Galicia,Vilagarcia de Arousa,36600,Europe/Madrid,42.5978,-8.7696,0
 187.115.178.180,BR,Brazil,PB,Paraíba,João Pessoa,null,America/Fortaleza,-7.115,-34.8631,0
-177.207.250.20,BR,Brazil,PB,ParaÃ­ba,Mamanguape,58280,America/Fortaleza,-6.7065,-35.1511,0
+177.207.250.20,BR,Brazil,PB,Paraíba,Mamanguape,58280,America/Fortaleza,-6.7065,-35.1511,0
 193.37.153.37,PT,Portugal,18,Viseu,Viseu,3500-002,Europe/Lisbon,40.661,-7.9097,0
 85.136.51.22,ES,Spain,AN,Andalusia,Granada,18014,Europe/Madrid,37.1879,-3.604,0
 81.45.52.209,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 201.195.216.186,CR,Costa Rica,null,null,null,null,America/Costa_Rica,10.0029,-84.0,0
 37.11.226.68,ES,Spain,MD,Madrid,Madrid,28041,Europe/Madrid,40.4143,-3.7016,0
-2.139.171.253,ES,Spain,CN,Canary Islands,AgÃ¼imes,35118,Atlantic/Canary,27.8729,-15.429,0
+2.139.171.253,ES,Spain,CN,Canary Islands,Agüimes,35118,Atlantic/Canary,27.8729,-15.429,0
 88.7.67.92,ES,Spain,AN,Andalusia,Torremolinos,29620,Europe/Madrid,36.6183,-4.4963,0
 77.224.177.15,ES,Spain,CT,Catalonia,Barcelona,08028,Europe/Madrid,41.3891,2.1611,0
 79.108.184.134,ES,Spain,VC,Valencia,Valencia,46009,Europe/Madrid,39.4705,-0.3765,0
@@ -1537,7 +1537,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 79.157.249.69,ES,Spain,AS,Principality of Asturias,Pola de Lena,33630,Europe/Madrid,43.1609,-5.8288,0
 83.165.225.211,ES,Spain,GA,Galicia,O Barco de Valdeorras,32300,Europe/Madrid,42.3609,-7.0138,0
 62.116.59.9,AT,Austria,5,Salzburg,Salzburg,5020,Europe/Vienna,47.8008,13.0443,0
-185.27.136.38,ES,Spain,AN,Andalusia,Ã‰cija,41400,Europe/Madrid,37.5422,-5.0826,0
+185.27.136.38,ES,Spain,AN,Andalusia,Écija,41400,Europe/Madrid,37.5422,-5.0826,0
 62.43.141.251,ES,Spain,VC,Valencia,Port de Sagunt,46520,Europe/Madrid,39.6622,-0.2175,0
 79.109.153.131,ES,Spain,VC,Valencia,Burjassot,46100,Europe/Madrid,39.5167,-0.4167,0
 85.50.75.24,ES,Spain,MD,Madrid,Villaconejos,28360,Europe/Madrid,40.0976,-3.4845,0
@@ -1546,7 +1546,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 190.14.188.226,AR,Argentina,U,Chubut,Comodoro Rivadavia,9000,America/Argentina/Rio_Gallegos,-45.6083,-67.75,0
 220.181.108.76,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 81.45.53.186,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
-77.224.220.229,ES,Spain,CL,Castille and LeÃ³n,Valladolid,47004,Europe/Madrid,41.6534,-4.7234,0
+77.224.220.229,ES,Spain,CL,Castille and León,Valladolid,47004,Europe/Madrid,41.6534,-4.7234,0
 83.58.147.133,ES,Spain,CT,Catalonia,Castelldefels,08860,Europe/Madrid,41.2799,1.9733,0
 173.252.103.4,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 157.55.32.163,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
@@ -1571,14 +1571,14 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 85.59.181.208,ES,Spain,MD,Madrid,Madrid,28005,Europe/Madrid,40.4143,-3.7016,0
 80.30.97.59,ES,Spain,MD,Madrid,Madrid,28001,Europe/Madrid,40.4171,-3.6839,0
 95.23.181.125,ES,Spain,IB,Balearic Islands,Ciutadella,07760,Europe/Madrid,40.0011,3.8414,0
-85.251.70.176,ES,Spain,CT,Catalonia,Cerdanyola del VallÃ¨s,08290,Europe/Madrid,41.4911,2.1408,0
+85.251.70.176,ES,Spain,CT,Catalonia,Cerdanyola del Vallès,08290,Europe/Madrid,41.4911,2.1408,0
 46.229.167.149,US,United States,VA,Virginia,Ashburn,20147,America/New_York,39.018,-77.539,511
 220.181.108.83,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 208.115.111.71,US,United States,WA,Washington,Seattle,98126,America/Los_Angeles,47.5461,-122.3723,819
 41.98.4.88,DZ,Algeria,31,Oran,Oran,31000,Africa/Algiers,35.6892,-0.6448,0
 83.46.5.16,ES,Spain,MD,Madrid,Madrid,28024,Europe/Madrid,40.4143,-3.7016,0
 65.52.104.230,US,United States,IL,Illinois,Chicago,60602,America/Chicago,41.8483,-87.6517,602
-88.151.17.100,ES,Spain,AS,Principality of Asturias,GijÃ³n,33204,Europe/Madrid,43.5357,-5.6615,0
+88.151.17.100,ES,Spain,AS,Principality of Asturias,Gijón,33204,Europe/Madrid,43.5357,-5.6615,0
 90.174.3.116,ES,Spain,MD,Madrid,Madrid,28019,Europe/Madrid,40.4143,-3.7016,0
 90.162.146.224,ES,Spain,CN,Canary Islands,Tacoronte,38358,Atlantic/Canary,28.5006,-16.4259,0
 78.240.16.223,FR,France,ARA,Auvergne-Rhone-Alpes,Aix-les-Bains,73100,Europe/Paris,45.6917,5.9086,0
@@ -1590,7 +1590,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 83.230.226.4,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 213.97.35.39,ES,Spain,CT,Catalonia,Girona,17007,Europe/Madrid,41.9813,2.8257,0
 83.45.250.187,ES,Spain,CM,Castille-La Mancha,Alcazar de San Juan,13600,Europe/Madrid,39.3901,-3.2083,0
-177.179.246.92,BR,Brazil,RJ,Rio de Janeiro,Barra do PiraÃ­,27000,America/Sao_Paulo,-22.4096,-43.8975,0
+177.179.246.92,BR,Brazil,RJ,Rio de Janeiro,Barra do Piraí,27000,America/Sao_Paulo,-22.4096,-43.8975,0
 88.18.171.82,ES,Spain,MD,Madrid,Morata de Tajuna,28530,Europe/Madrid,40.2268,-3.4327,0
 77.27.84.107,ES,Spain,GA,Galicia,Sada,15160,Europe/Madrid,43.3562,-8.258,0
 65.55.219.155,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
@@ -1611,10 +1611,10 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 187.122.210.208,BR,Brazil,SP,Sao Paulo,Barueri,06400,America/Sao_Paulo,-23.4983,-46.8651,0
 31.4.217.195,ES,Spain,AN,Andalusia,Seville,41016,Europe/Madrid,37.3834,-5.9789,0
 95.16.63.205,ES,Spain,AN,Andalusia,Umbrete,41806,Europe/Madrid,37.3713,-6.1659,0
-190.0.23.203,CO,Colombia,ANT,Antioquia,MedellÃ­n,050001,America/Bogota,6.2529,-75.5646,0
+190.0.23.203,CO,Colombia,ANT,Antioquia,Medellín,050001,America/Bogota,6.2529,-75.5646,0
 188.123.253.34,RU,Russia,MOW,Moscow,Moscow,119634,Europe/Moscow,55.7527,37.6172,0
 199.30.16.128,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
-77.228.1.14,ES,Spain,AN,Andalusia,MÃ¡laga,29018,Europe/Madrid,36.7182,-4.4192,0
+77.228.1.14,ES,Spain,AN,Andalusia,Málaga,29018,Europe/Madrid,36.7182,-4.4192,0
 202.46.50.18,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 84.122.81.236,ES,Spain,AN,Andalusia,Linares,23700,Europe/Madrid,38.0952,-3.636,0
 95.61.7.17,ES,Spain,MD,Madrid,Boadilla del Monte,28660,Europe/Madrid,40.405,-3.8783,0
@@ -1647,10 +1647,10 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 81.45.52.122,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 79.155.224.150,ES,Spain,CT,Catalonia,Mollerussa,25230,Europe/Madrid,41.6333,0.9,0
 88.10.1.109,ES,Spain,PV,Basque Country,Getxo,48992,Europe/Madrid,43.3474,-3.0137,0
-187.2.26.109,BR,Brazil,SP,Sao Paulo,HortolÃ¢ndia,13183,America/Sao_Paulo,-22.8687,-47.2119,0
-186.83.138.220,CO,Colombia,DC,Bogota D.C.,BogotÃ¡,111311,America/Bogota,4.6493,-74.0617,0
+187.2.26.109,BR,Brazil,SP,Sao Paulo,Hortolândia,13183,America/Sao_Paulo,-22.8687,-47.2119,0
+186.83.138.220,CO,Colombia,DC,Bogota D.C.,Bogotá,111311,America/Bogota,4.6493,-74.0617,0
 83.49.58.117,ES,Spain,MD,Madrid,Getafe,28905,Europe/Madrid,40.3084,-3.7326,0
-83.37.20.48,ES,Spain,EX,Extremadura,CÃ¡ceres,10001,Europe/Madrid,39.4774,-6.3816,0
+83.37.20.48,ES,Spain,EX,Extremadura,Cáceres,10001,Europe/Madrid,39.4774,-6.3816,0
 200.23.91.150,MX,Mexico,CMX,Mexico City,Mexico City,11400,America/Mexico_City,19.454,-99.1799,0
 190.17.235.152,AR,Argentina,C,Buenos Aires F.D.,Buenos Aires,1871,America/Argentina/Buenos_Aires,-34.6021,-58.3845,0
 213.98.217.80,ES,Spain,IB,Balearic Islands,Palma,07122,Europe/Madrid,39.5743,2.6552,0
@@ -1692,7 +1692,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 80.35.187.33,ES,Spain,CT,Catalonia,Sant Just Desvern,08960,Europe/Madrid,41.386,2.0757,0
 190.192.86.165,AR,Argentina,N,Misiones,Posadas,3300,America/Argentina/Cordoba,-27.3833,-55.8833,0
 157.55.33.23,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-189.131.185.170,MX,Mexico,MEX,MÃ©xico,Ciudad Nezahualcoyotl,57800,America/Mexico_City,19.383,-98.998,0
+189.131.185.170,MX,Mexico,MEX,México,Ciudad Nezahualcoyotl,57800,America/Mexico_City,19.383,-98.998,0
 209.19.180.12,US,United States,ID,Idaho,Meridian,83646,America/Boise,43.6502,-116.4343,757
 123.125.71.17,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 2.197.29.235,IT,Italy,null,null,null,null,Europe/Rome,43.1479,12.1097,0
@@ -1706,7 +1706,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 199.30.20.11,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 76.232.177.219,US,United States,CA,California,Ceres,95307,America/Los_Angeles,37.5855,-120.9453,862
 5.50.255.124,FR,France,null,null,null,null,Europe/Paris,48.8582,2.3387,0
-46.27.161.21,ES,Spain,EX,Extremadura,CÃ¡ceres,10004,Europe/Madrid,39.4774,-6.3816,0
+46.27.161.21,ES,Spain,EX,Extremadura,Cáceres,10004,Europe/Madrid,39.4774,-6.3816,0
 50.10.5.106,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 206.80.118.113,US,United States,OH,Ohio,Eastlake,44095,America/New_York,41.6587,-81.4445,510
 157.55.35.102,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
@@ -1719,7 +1719,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 95.60.36.141,ES,Spain,CT,Catalonia,Figueres,17600,Europe/Madrid,42.2668,2.9576,0
 31.36.9.30,FR,France,NAQ,Nouvelle-Aquitaine,Bordeaux,33100,Europe/Paris,44.8412,-0.5806,0
 186.23.137.154,AR,Argentina,C,Buenos Aires F.D.,Buenos Aires,1871,America/Argentina/Buenos_Aires,-34.6021,-58.3845,0
-79.155.99.203,ES,Spain,CL,Castille and LeÃ³n,Burgos,09006,Europe/Madrid,42.3502,-3.6753,0
+79.155.99.203,ES,Spain,CL,Castille and León,Burgos,09006,Europe/Madrid,42.3502,-3.6753,0
 31.4.192.62,ES,Spain,AN,Andalusia,Seville,41007,Europe/Madrid,37.3834,-5.9789,0
 202.46.63.121,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 220.181.108.146,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
@@ -1727,7 +1727,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 81.44.208.160,ES,Spain,CT,Catalonia,Tortosa,43500,Europe/Madrid,40.8125,0.5216,0
 66.249.73.8,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 91.179.249.210,BE,Belgium,WAL,Wallonia,Waremme,4300,Europe/Brussels,50.6976,5.2552,0
-88.8.167.139,ES,Spain,CT,Catalonia,PuigcerdÃ ,17520,Europe/Madrid,42.4363,1.9269,0
+88.8.167.139,ES,Spain,CT,Catalonia,Puigcerdà,17520,Europe/Madrid,42.4363,1.9269,0
 220.181.108.82,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 157.55.34.106,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 83.60.86.201,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
@@ -1739,32 +1739,32 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 178.137.167.118,UA,Ukraine,46,L'vivs'ka Oblast',Lviv,79059,Europe/Kiev,49.8486,24.0323,0
 199.30.20.35,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 123.125.71.12,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-84.127.145.60,ES,Spain,CL,Castille and LeÃ³n,Valladolid,47008,Europe/Madrid,41.6534,-4.7234,0
+84.127.145.60,ES,Spain,CL,Castille and León,Valladolid,47008,Europe/Madrid,41.6534,-4.7234,0
 202.46.51.40,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 220.181.132.218,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 101.199.108.59,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-84.125.93.151,ES,Spain,CL,Castille and LeÃ³n,Palencia,34004,Europe/Madrid,42.0021,-4.5237,0
+84.125.93.151,ES,Spain,CL,Castille and León,Palencia,34004,Europe/Madrid,42.0021,-4.5237,0
 81.203.229.114,ES,Spain,MD,Madrid,Madrid,28033,Europe/Madrid,40.4143,-3.7016,0
 157.55.32.96,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 85.219.34.167,ES,Spain,CT,Catalonia,Barcelona,08001,Europe/Madrid,41.3949,2.1756,0
 188.165.129.68,FR,France,null,null,null,null,Europe/Paris,48.8582,2.3387,0
-88.1.80.140,ES,Spain,CT,Catalonia,RubÃ­,08191,Europe/Madrid,41.4923,2.033,0
+88.1.80.140,ES,Spain,CT,Catalonia,Rubí,08191,Europe/Madrid,41.4923,2.033,0
 2.9.118.92,FR,France,null,null,null,null,Europe/Paris,48.8582,2.3387,0
 68.47.129.55,US,United States,FL,Florida,Panama City,32408,America/Chicago,30.1655,-85.7116,656
-80.236.74.196,FR,France,IDF,ÃŽle-de-France,Paris,75019,Europe/Paris,48.8543,2.3527,0
+80.236.74.196,FR,France,IDF,Île-de-France,Paris,75019,Europe/Paris,48.8543,2.3527,0
 81.39.110.171,ES,Spain,AR,Aragon,Villanueva de Gallego,50830,Europe/Madrid,41.7708,-0.8326,0
 89.129.111.153,ES,Spain,AN,Andalusia,Marchena,41620,Europe/Madrid,37.329,-5.4168,0
 204.104.55.244,null,null,null,null,null,null,Europe/Vaduz,47.0,8.0,0
 79.150.110.56,ES,Spain,NC,Navarre,Pamplona,31014,Europe/Madrid,42.8158,-1.6404,0
-79.144.136.254,ES,Spain,AS,Principality of Asturias,GijÃ³n,33394,Europe/Madrid,43.5357,-5.6615,0
+79.144.136.254,ES,Spain,AS,Principality of Asturias,Gijón,33394,Europe/Madrid,43.5357,-5.6615,0
 85.58.98.43,ES,Spain,CT,Catalonia,Castelldefels,08860,Europe/Madrid,41.2799,1.9733,0
 162.210.196.100,US,United States,VA,Virginia,Arlington,22201,America/New_York,38.8865,-77.0911,511
 83.63.160.63,ES,Spain,CN,Canary Islands,Santa Cruz de Tenerife,38009,Atlantic/Canary,28.4682,-16.2546,0
 87.65.143.45,BE,Belgium,WAL,Wallonia,Anderlues,6150,Europe/Brussels,50.4,4.2605,0
-217.71.18.36,ES,Spain,CL,Castille and LeÃ³n,Valladolid,47009,Europe/Madrid,41.6534,-4.7234,0
+217.71.18.36,ES,Spain,CL,Castille and León,Valladolid,47009,Europe/Madrid,41.6534,-4.7234,0
 193.152.211.24,ES,Spain,IB,Balearic Islands,Palma,07013,Europe/Madrid,39.5661,2.6484,0
-95.39.196.243,ES,Spain,CL,Castille and LeÃ³n,Segovia,40006,Europe/Madrid,40.9481,-4.1184,0
-80.103.182.245,ES,Spain,EX,Extremadura,CÃ¡ceres,10005,Europe/Madrid,39.4774,-6.3816,0
+95.39.196.243,ES,Spain,CL,Castille and León,Segovia,40006,Europe/Madrid,40.9481,-4.1184,0
+80.103.182.245,ES,Spain,EX,Extremadura,Cáceres,10005,Europe/Madrid,39.4774,-6.3816,0
 80.35.176.249,ES,Spain,CT,Catalonia,Sant Just Desvern,08960,Europe/Madrid,41.386,2.0757,0
 79.156.107.90,ES,Spain,CT,Catalonia,Monistrol de Montserrat,08691,Europe/Madrid,41.6167,1.85,0
 85.84.85.128,ES,Spain,PV,Basque Country,Lazcano,20210,Europe/Madrid,43.0298,-2.1827,0
@@ -1782,7 +1782,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 144.76.95.231,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
 88.6.154.36,ES,Spain,MD,Madrid,Cadalso de los Vidrios,28640,Europe/Madrid,40.3012,-4.4235,0
 72.37.171.52,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-217.124.183.226,ES,Spain,EX,Extremadura,CÃ¡ceres,10003,Europe/Madrid,39.4774,-6.3816,0
+217.124.183.226,ES,Spain,EX,Extremadura,Cáceres,10003,Europe/Madrid,39.4774,-6.3816,0
 194.179.87.18,ES,Spain,AN,Andalusia,Cadiz,11005,Europe/Madrid,36.526,-6.2968,0
 78.136.69.17,ES,Spain,AN,Andalusia,Bailen,23710,Europe/Madrid,38.0964,-3.7779,0
 212.231.183.216,ES,Spain,AN,Andalusia,Palma del Rio,14700,Europe/Madrid,37.7002,-5.2812,0
@@ -1792,7 +1792,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 84.76.76.26,ES,Spain,IB,Balearic Islands,Ibiza Town,07800,Europe/Madrid,38.9076,1.4332,0
 88.148.126.220,ES,Spain,AN,Andalusia,Jerez de la Frontera,11592,Europe/Madrid,36.6882,-6.1375,0
 87.221.200.174,ES,Spain,AR,Aragon,Zaragoza,50018,Europe/Madrid,41.6574,-0.8764,0
-217.217.99.195,ES,Spain,AN,Andalusia,MÃ¡laga,29010,Europe/Madrid,36.7182,-4.4192,0
+217.217.99.195,ES,Spain,AN,Andalusia,Málaga,29010,Europe/Madrid,36.7182,-4.4192,0
 81.33.210.204,ES,Spain,CT,Catalonia,Banyoles,17820,Europe/Madrid,42.1192,2.7564,0
 149.7.16.130,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 94.76.171.236,ES,Spain,MC,Murcia,Molina de Segura,30500,Europe/Madrid,38.0546,-1.2076,0
@@ -1803,7 +1803,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 79.153.0.25,ES,Spain,MD,Madrid,Madrid,28030,Europe/Madrid,40.4143,-3.7016,0
 148.251.44.239,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
 157.55.36.54,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-88.19.25.77,ES,Spain,AS,Principality of Asturias,GijÃ³n,33204,Europe/Madrid,43.5357,-5.6615,0
+88.19.25.77,ES,Spain,AS,Principality of Asturias,Gijón,33204,Europe/Madrid,43.5357,-5.6615,0
 31.4.236.29,ES,Spain,VC,Valencia,Valencia,46007,Europe/Madrid,39.4705,-0.3765,0
 77.224.75.209,ES,Spain,AN,Andalusia,Marbella,29660,Europe/Madrid,36.5149,-4.8838,0
 83.44.201.141,ES,Spain,PV,Basque Country,Villafranca de Ordizia,20240,Europe/Madrid,43.0541,-2.1763,0
@@ -1813,16 +1813,16 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 157.55.32.102,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 188.159.54.37,IR,Iran,null,null,null,null,Asia/Tehran,35.698,51.4115,0
 90.174.2.224,ES,Spain,MD,Madrid,Madrid,28019,Europe/Madrid,40.4143,-3.7016,0
-79.154.192.230,ES,Spain,CT,Catalonia,Cerdanyola del VallÃ¨s,08290,Europe/Madrid,41.4911,2.1408,0
+79.154.192.230,ES,Spain,CT,Catalonia,Cerdanyola del Vallès,08290,Europe/Madrid,41.4911,2.1408,0
 213.143.51.93,ES,Spain,CT,Catalonia,Barcelona,08035,Europe/Madrid,41.3891,2.1611,0
 31.4.176.205,ES,Spain,MD,Madrid,Madrid,28043,Europe/Madrid,40.4143,-3.7016,0
 190.192.38.161,AR,Argentina,S,Santa Fe,Rosario,2000,America/Argentina/Cordoba,-32.9541,-60.6636,0
 81.45.52.105,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 65.55.217.235,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
-195.77.241.242,ES,Spain,CT,Catalonia,CornellÃ  de Llobregat,08940,Europe/Madrid,41.35,2.0833,0
+195.77.241.242,ES,Spain,CT,Catalonia,Cornellà de Llobregat,08940,Europe/Madrid,41.35,2.0833,0
 193.33.2.101,ES,Spain,MD,Madrid,Madrid,28016,Europe/Madrid,40.4143,-3.7016,0
 216.185.35.54,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-92.155.132.21,FR,France,IDF,ÃŽle-de-France,Paris,75017,Europe/Paris,48.8543,2.3527,0
+92.155.132.21,FR,France,IDF,Île-de-France,Paris,75017,Europe/Paris,48.8543,2.3527,0
 198.72.120.49,CA,Canada,null,null,null,null,America/Toronto,43.6319,-79.3716,0
 198.72.106.183,CA,Canada,null,null,null,null,America/Toronto,43.6319,-79.3716,0
 198.72.106.190,CA,Canada,null,null,null,null,America/Toronto,43.6319,-79.3716,0
@@ -1834,7 +1834,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 213.37.161.197,ES,Spain,MD,Madrid,Madrid,28019,Europe/Madrid,40.4143,-3.7016,0
 189.126.48.62,BR,Brazil,SC,Santa Catarina,Irani,89680,America/Sao_Paulo,-27.0353,-51.9158,0
 84.121.113.165,ES,Spain,CM,Castille-La Mancha,Albacete,02005,Europe/Madrid,38.9967,-1.8561,0
-194.30.26.30,ES,Spain,CN,Canary Islands,San SebastiÃ¡n de La Gomera,20007,Atlantic/Canary,28.0869,-17.1104,0
+194.30.26.30,ES,Spain,CN,Canary Islands,San Sebastián de La Gomera,20007,Atlantic/Canary,28.0869,-17.1104,0
 195.55.122.82,ES,Spain,GA,Galicia,Cambre,15679,Europe/Madrid,43.3187,-8.3604,0
 77.224.119.193,ES,Spain,VC,Valencia,Moncada,46113,Europe/Madrid,39.5456,-0.3955,0
 213.143.59.207,ES,Spain,AN,Andalusia,Seville,41006,Europe/Madrid,37.3834,-5.9789,0
@@ -1851,20 +1851,20 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 121.14.228.8,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 65.55.215.81,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 190.98.216.76,CL,Chile,RM,Santiago Metropolitan,Santiago,null,America/Santiago,-33.4514,-70.6653,0
-81.184.89.236,ES,Spain,RI,La Rioja,LogroÃ±o,26005,Europe/Madrid,42.4667,-2.45,0
+81.184.89.236,ES,Spain,RI,La Rioja,Logroño,26005,Europe/Madrid,42.4667,-2.45,0
 173.252.110.118,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 173.252.110.116,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 173.252.110.119,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 83.39.131.123,ES,Spain,CT,Catalonia,Santa Coloma de Farners,17430,Europe/Madrid,41.8667,2.6667,0
-85.136.169.130,ES,Spain,VC,Valencia,CastellÃ³ de la Plana,12005,Europe/Madrid,40.2086,0.0311,0
+85.136.169.130,ES,Spain,VC,Valencia,Castelló de la Plana,12005,Europe/Madrid,40.2086,0.0311,0
 37.14.223.190,ES,Spain,VC,Valencia,Torreblanca,12596,Europe/Madrid,40.2203,0.1965,0
 37.14.233.129,ES,Spain,VC,Valencia,Alboraya,46120,Europe/Madrid,39.5,-0.35,0
-86.62.136.73,NO,Norway,38,Vestfold og Telemark,TÃ¸nsberg,3116,Europe/Oslo,59.27,10.4154,0
+86.62.136.73,NO,Norway,38,Vestfold og Telemark,Tønsberg,3116,Europe/Oslo,59.27,10.4154,0
 88.24.132.149,ES,Spain,AN,Andalusia,Belicena,18101,Europe/Madrid,37.1733,-3.6964,0
 157.56.92.173,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-31.4.210.113,ES,Spain,CL,Castille and LeÃ³n,null,null,Europe/Madrid,41.6534,-4.7234,0
+31.4.210.113,ES,Spain,CL,Castille and León,null,null,Europe/Madrid,41.6534,-4.7234,0
 65.55.215.97,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-89.7.163.37,ES,Spain,MD,Madrid,San SebastiÃ¡n de los Reyes,28701,Europe/Madrid,40.5443,-3.6159,0
+89.7.163.37,ES,Spain,MD,Madrid,San Sebastián de los Reyes,28701,Europe/Madrid,40.5443,-3.6159,0
 83.49.199.102,ES,Spain,CT,Catalonia,Terrassa,08222,Europe/Madrid,41.567,2.0169,0
 81.33.99.91,ES,Spain,CT,Catalonia,Barcelona,08020,Europe/Madrid,41.3891,2.1611,0
 87.235.198.181,ES,Spain,CT,Catalonia,Barcelona,08022,Europe/Madrid,41.3891,2.1611,0
@@ -1889,16 +1889,16 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 80.31.12.71,ES,Spain,CT,Catalonia,Arbucies,17401,Europe/Madrid,41.8167,2.5167,0
 79.83.40.230,FR,France,BFC,Bourgogne-Franche-Comte,Sens,89100,Europe/Paris,48.2,3.2833,0
 202.46.61.33,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-177.68.131.131,BR,Brazil,SP,Sao Paulo,SÃ£o Paulo,01000,America/Sao_Paulo,-23.63,-46.6322,0
-200.116.194.112,CO,Colombia,VAC,Departamento del Valle del Cauca,TuluÃ¡,763022,America/Bogota,4.0844,-76.1953,0
-84.77.147.47,ES,Spain,AN,Andalusia,JaÃ©n,23003,Europe/Madrid,37.7685,-3.7974,0
+177.68.131.131,BR,Brazil,SP,Sao Paulo,São Paulo,01000,America/Sao_Paulo,-23.63,-46.6322,0
+200.116.194.112,CO,Colombia,VAC,Departamento del Valle del Cauca,Tuluá,763022,America/Bogota,4.0844,-76.1953,0
+84.77.147.47,ES,Spain,AN,Andalusia,Jaén,23003,Europe/Madrid,37.7685,-3.7974,0
 157.55.33.180,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-189.152.192.134,MX,Mexico,NLE,Nuevo LeÃ³n,Monterrey,64830,America/Monterrey,25.6167,-100.2667,0
+189.152.192.134,MX,Mexico,NLE,Nuevo León,Monterrey,64830,America/Monterrey,25.6167,-100.2667,0
 88.198.16.153,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
 114.26.127.57,TW,Taiwan,TXG,Taichung City,Taichung,null,Asia/Taipei,24.1469,120.6839,0
 193.99.42.56,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
 46.24.104.7,ES,Spain,PV,Basque Country,Gernika-Lumo,48300,Europe/Madrid,43.3167,-2.6833,0
-31.4.208.116,ES,Spain,CL,Castille and LeÃ³n,null,null,Europe/Madrid,41.6534,-4.7234,0
+31.4.208.116,ES,Spain,CL,Castille and León,null,null,Europe/Madrid,41.6534,-4.7234,0
 183.60.213.109,CN,China,GD,Guangdong,Foshan,null,Asia/Shanghai,23.0287,113.1341,0
 50.62.41.73,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 109.200.159.118,UA,Ukraine,43,Crimea,Simferopol,10421,Europe/Simferopol,44.9566,34.1116,0
@@ -1915,8 +1915,8 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 85.49.148.76,ES,Spain,MC,Murcia,Cartagena,30366,Europe/Madrid,37.6325,-0.9705,0
 31.4.240.131,ES,Spain,MD,Madrid,Madrid,28024,Europe/Madrid,40.4143,-3.7016,0
 31.221.138.191,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
-83.33.64.92,ES,Spain,CL,Castille and LeÃ³n,Aranda de Duero,09400,Europe/Madrid,41.6696,-3.6896,0
-37.11.175.179,ES,Spain,CL,Castille and LeÃ³n,Valladolid,47012,Europe/Madrid,41.6534,-4.7234,0
+83.33.64.92,ES,Spain,CL,Castille and León,Aranda de Duero,09400,Europe/Madrid,41.6696,-3.6896,0
+37.11.175.179,ES,Spain,CL,Castille and León,Valladolid,47012,Europe/Madrid,41.6534,-4.7234,0
 81.35.112.206,ES,Spain,AS,Principality of Asturias,Oviedo,33010,Europe/Madrid,43.359,-5.8444,0
 77.224.231.67,ES,Spain,CT,Catalonia,Barcelona,08003,Europe/Madrid,41.3891,2.1611,0
 85.86.195.82,ES,Spain,PV,Basque Country,Barakaldo,48902,Europe/Madrid,43.2956,-2.9973,0
@@ -1932,32 +1932,32 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 37.15.199.206,ES,Spain,IB,Balearic Islands,Ibiza Town,07800,Europe/Madrid,38.9076,1.4332,0
 202.46.62.33,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 81.34.34.145,ES,Spain,PV,Basque Country,Anzuola,20577,Europe/Madrid,43.1008,-2.3775,0
-79.147.193.223,ES,Spain,AS,Principality of Asturias,GijÃ³n,33209,Europe/Madrid,43.5357,-5.6615,0
+79.147.193.223,ES,Spain,AS,Principality of Asturias,Gijón,33209,Europe/Madrid,43.5357,-5.6615,0
 116.8.99.217,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 78.192.146.89,FR,France,ARA,Auvergne-Rhone-Alpes,Villeurbanne,69100,Europe/Paris,45.7663,4.8883,0
 187.153.135.28,MX,Mexico,TAM,Tamaulipas,Graciano Sanchez,89000,America/Monterrey,22.7001,-98.475,0
 84.79.214.214,ES,Spain,CM,Castille-La Mancha,Pedro Munoz,13620,Europe/Madrid,39.4063,-2.9494,0
 186.74.154.138,PA,Panama,8,Provincia de Panama,Panama City,null,America/Panama,8.9948,-79.523,0
 31.221.184.142,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
-37.15.98.197,ES,Spain,CT,Catalonia,MatarÃ³,08303,Europe/Madrid,41.5459,2.4436,0
+37.15.98.197,ES,Spain,CT,Catalonia,Mataró,08303,Europe/Madrid,41.5459,2.4436,0
 188.82.217.233,PT,Portugal,03,Braga,Braga,4700-000,Europe/Lisbon,41.5515,-8.4205,0
 157.55.36.51,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 177.113.156.93,BR,Brazil,null,null,null,null,America/Sao_Paulo,-22.8305,-43.2192,0
 80.81.127.85,ES,Spain,MD,Madrid,Daganzo de Arriba,28814,Europe/Madrid,40.5429,-3.4546,0
-82.227.113.107,FR,France,PAC,Provence-Alpes-CÃ´te d'Azur,Aix-en-Provence,13100,Europe/Paris,43.5312,5.4554,0
+82.227.113.107,FR,France,PAC,Provence-Alpes-Côte d'Azur,Aix-en-Provence,13100,Europe/Paris,43.5312,5.4554,0
 95.17.147.90,ES,Spain,CT,Catalonia,Piera,08784,Europe/Madrid,41.5223,1.7508,0
 64.246.178.34,US,United States,WA,Washington,Lake Stevens,98258,America/Los_Angeles,48.0132,-122.0679,819
 64.246.187.42,US,United States,WA,Washington,Lake Stevens,98258,America/Los_Angeles,48.0132,-122.0679,819
 193.251.181.189,FR,France,NAQ,Nouvelle-Aquitaine,Arbanats,33640,Europe/Paris,44.6761,-0.389,0
 176.180.96.146,FR,France,BRE,Brittany,Rennes,35000,Europe/Paris,48.11,-1.6744,0
-213.37.219.133,ES,Spain,MD,Madrid,TorrejÃ³n de Ardoz,28850,Europe/Madrid,40.4586,-3.4719,0
+213.37.219.133,ES,Spain,MD,Madrid,Torrejón de Ardoz,28850,Europe/Madrid,40.4586,-3.4719,0
 81.45.52.104,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 188.84.96.240,ES,Spain,CT,Catalonia,Molins de Rei,08750,Europe/Madrid,41.4119,2.0221,0
-86.218.28.181,FR,France,IDF,ÃŽle-de-France,Paris,75011,Europe/Paris,48.8543,2.3527,0
+86.218.28.181,FR,France,IDF,Île-de-France,Paris,75011,Europe/Paris,48.8543,2.3527,0
 94.142.200.142,ES,Spain,MD,Madrid,Madrid,28043,Europe/Madrid,40.4143,-3.7016,0
 189.73.123.167,BR,Brazil,SC,Santa Catarina,Blumenau,89000,America/Sao_Paulo,-26.8768,-49.0976,0
 81.45.53.181,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
-212.89.8.125,ES,Spain,AS,Principality of Asturias,GijÃ³n,33203,Europe/Madrid,43.5357,-5.6615,0
+212.89.8.125,ES,Spain,AS,Principality of Asturias,Gijón,33203,Europe/Madrid,43.5357,-5.6615,0
 88.2.250.164,ES,Spain,CT,Catalonia,Tarrega,25300,Europe/Madrid,41.647,1.1396,0
 123.125.71.25,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 37.11.65.37,ES,Spain,MD,Madrid,Madrid,28014,Europe/Madrid,40.4143,-3.7016,0
@@ -1968,7 +1968,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 177.125.94.15,BR,Brazil,MG,Minas Gerais,Mariana,35420,America/Sao_Paulo,-20.3215,-43.3083,0
 81.34.198.86,ES,Spain,MD,Madrid,Madrid,28020,Europe/Madrid,40.4143,-3.7016,0
 88.1.150.2,ES,Spain,CT,Catalonia,el Prat de Llobregat,08820,Europe/Madrid,41.3278,2.0947,0
-83.213.232.246,ES,Spain,CN,Canary Islands,San SebastiÃ¡n de La Gomera,20008,Atlantic/Canary,28.0869,-17.1104,0
+83.213.232.246,ES,Spain,CN,Canary Islands,San Sebastián de La Gomera,20008,Atlantic/Canary,28.0869,-17.1104,0
 86.221.241.137,FR,France,null,null,null,null,Europe/Paris,48.8582,2.3387,0
 88.0.211.168,ES,Spain,CT,Catalonia,Molins de Rei,08750,Europe/Madrid,41.4119,2.0221,0
 88.138.178.147,FR,France,NAQ,Nouvelle-Aquitaine,Couzeix,87270,Europe/Paris,45.8705,1.2383,0
@@ -1979,7 +1979,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 85.49.138.49,ES,Spain,CT,Catalonia,Manlleu,08560,Europe/Madrid,42.0023,2.2848,0
 77.203.120.242,FR,France,GES,Grand Est,Obenheim,67230,Europe/Paris,48.3571,7.6944,0
 81.45.52.181,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
-186.244.51.107,BR,Brazil,MG,Minas Gerais,RibeirÃ£o das Neves,33800,America/Sao_Paulo,-19.772,-44.0694,0
+186.244.51.107,BR,Brazil,MG,Minas Gerais,Ribeirão das Neves,33800,America/Sao_Paulo,-19.772,-44.0694,0
 2.137.47.70,ES,Spain,MD,Madrid,Madrid,28030,Europe/Madrid,40.4143,-3.7016,0
 81.34.148.106,ES,Spain,AN,Andalusia,Rincon de la Victoria,29730,Europe/Madrid,36.7128,-4.2811,0
 84.7.57.33,FR,France,HDF,Hauts-de-France,Rethonvillers,80700,Europe/Paris,49.7358,2.8638,0
@@ -1992,9 +1992,9 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 87.100.101.121,FR,France,NAQ,Nouvelle-Aquitaine,Boeil-Bezing,64510,Europe/Paris,43.2146,-0.2711,0
 200.98.200.32,BR,Brazil,null,null,null,null,America/Sao_Paulo,-22.8305,-43.2192,0
 77.7.126.108,DE,Germany,BY,Bavaria,Munich,80539,Europe/Berlin,48.1497,11.585,0
-92.58.120.35,ES,Spain,CL,Castille and LeÃ³n,Vallelado,40213,Europe/Madrid,41.4008,-4.4256,0
+92.58.120.35,ES,Spain,CL,Castille and León,Vallelado,40213,Europe/Madrid,41.4008,-4.4256,0
 2.9.203.175,FR,France,null,null,null,null,Europe/Paris,48.8582,2.3387,0
-87.221.5.240,ES,Spain,AN,Andalusia,AlmerÃ­a,04008,Europe/Madrid,36.8344,-2.461,0
+87.221.5.240,ES,Spain,AN,Andalusia,Almería,04008,Europe/Madrid,36.8344,-2.461,0
 83.49.92.249,ES,Spain,CN,Canary Islands,Adeje,38660,Atlantic/Canary,28.1194,-16.7227,0
 80.35.126.252,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 83.213.184.48,ES,Spain,PV,Basque Country,Vitoria-Gasteiz,01010,Europe/Madrid,42.8572,-2.6981,0
@@ -2022,7 +2022,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 123.125.71.38,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 31.4.182.5,ES,Spain,MD,Madrid,Madrid,28043,Europe/Madrid,40.4143,-3.7016,0
 92.56.29.148,ES,Spain,AN,Andalusia,Seville,41010,Europe/Madrid,37.3834,-5.9789,0
-88.23.226.90,ES,Spain,CT,Catalonia,BonmatÃ­,17164,Europe/Madrid,41.9862,2.6893,0
+88.23.226.90,ES,Spain,CT,Catalonia,Bonmatí,17164,Europe/Madrid,41.9862,2.6893,0
 85.58.131.170,ES,Spain,CM,Castille-La Mancha,Guadalajara,19005,Europe/Madrid,40.6286,-3.1618,0
 31.13.99.118,IE,Ireland,null,null,null,null,Europe/Dublin,53.3472,-6.2439,0
 31.13.99.115,IE,Ireland,null,null,null,null,Europe/Dublin,53.3472,-6.2439,0
@@ -2049,8 +2049,8 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 182.118.25.221,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 92.133.229.189,FR,France,OCC,Occitanie,Perols,34470,Europe/Paris,43.5631,3.952,0
 181.235.206.45,CO,Colombia,null,null,null,null,America/Bogota,4.5981,-74.0799,0
-80.29.15.192,ES,Spain,AN,Andalusia,JaÃ©n,23006,Europe/Madrid,37.7685,-3.7974,0
-93.21.192.68,FR,France,IDF,ÃŽle-de-France,Bougival,78380,Europe/Paris,48.8622,2.1415,0
+80.29.15.192,ES,Spain,AN,Andalusia,Jaén,23006,Europe/Madrid,37.7685,-3.7974,0
+93.21.192.68,FR,France,IDF,Île-de-France,Bougival,78380,Europe/Paris,48.8622,2.1415,0
 216.9.35.59,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 202.46.56.46,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 84.126.218.198,ES,Spain,VC,Valencia,Elche,03205,Europe/Madrid,38.2622,-0.703,0
@@ -2060,7 +2060,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 190.46.45.204,CL,Chile,VS,Region de Valparaiso,Quillota,null,America/Santiago,-32.8833,-71.2667,0
 109.217.107.218,FR,France,GES,Grand Est,Bischoffsheim,67870,Europe/Paris,48.487,7.4897,0
 81.9.187.125,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
-84.125.143.42,ES,Spain,AN,Andalusia,El Puerto de Santa MarÃ­a,11500,Europe/Madrid,36.5904,-6.235,0
+84.125.143.42,ES,Spain,AN,Andalusia,El Puerto de Santa María,11500,Europe/Madrid,36.5904,-6.235,0
 157.56.92.144,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 200.153.240.37,BR,Brazil,SP,Sao Paulo,Sao Pedro,13520,America/Sao_Paulo,-22.5596,-47.9044,0
 144.76.223.13,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
@@ -2070,10 +2070,10 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 199.30.25.139,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 79.168.72.6,PT,Portugal,11,Lisbon,Linda a Velha,2795-113,Europe/Lisbon,38.7145,-9.2422,0
 72.14.199.148,US,United States,CA,California,Mountain View,94043,America/Los_Angeles,37.4043,-122.0748,807
-189.58.68.92,BR,Brazil,PR,Parana,Foz do IguaÃ§u,85850,America/Sao_Paulo,-25.4317,-54.4559,0
+189.58.68.92,BR,Brazil,PR,Parana,Foz do Iguaçu,85850,America/Sao_Paulo,-25.4317,-54.4559,0
 201.156.20.144,MX,Mexico,NLE,Nuevo León,San Nicolás de los Garza,66464,America/Monterrey,25.7633,-100.2784,0
 177.82.248.124,BR,Brazil,RS,Rio Grande do Sul,Caxias do Sul,null,America/Sao_Paulo,-29.1721,-51.1785,0
-46.27.201.213,ES,Spain,CT,Catalonia,CornellÃ  de Llobregat,08940,Europe/Madrid,41.35,2.0833,0
+46.27.201.213,ES,Spain,CT,Catalonia,Cornellà de Llobregat,08940,Europe/Madrid,41.35,2.0833,0
 31.13.97.112,IE,Ireland,null,null,null,null,Europe/Dublin,53.3472,-6.2439,0
 186.92.211.136,VE,Venezuela,V,Zulia,Maracaibo,null,America/Caracas,10.6286,-71.6422,0
 201.141.111.241,MX,Mexico,null,null,null,null,America/Mexico_City,19.4371,-99.0111,0
@@ -2093,7 +2093,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 157.55.33.89,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 213.44.134.87,FR,France,ARA,Auvergne-Rhone-Alpes,Annecy,74000,Europe/Paris,45.9063,6.1293,0
 202.46.62.11,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-189.205.232.169,MX,Mexico,NLE,Nuevo LeÃ³n,Monterrey,64710,America/Monterrey,25.6449,-100.3111,0
+189.205.232.169,MX,Mexico,NLE,Nuevo León,Monterrey,64710,America/Monterrey,25.6449,-100.3111,0
 69.171.245.113,US,United States,DE,Delaware,Newark,19717,America/New_York,39.6876,-75.7482,504
 46.118.115.66,UA,Ukraine,46,L'vivs'ka Oblast',Lviv,79059,Europe/Kiev,49.8486,24.0323,0
 157.55.33.103,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
@@ -2103,7 +2103,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 190.225.6.175,AR,Argentina,H,Chaco,Tres Isletas,3703,America/Argentina/Cordoba,-26.3403,-60.4314,0
 85.84.21.18,ES,Spain,PV,Basque Country,Vitoria-Gasteiz,01010,Europe/Madrid,42.8572,-2.6981,0
 2.138.119.2,ES,Spain,AR,Aragon,Zaragoza,50009,Europe/Madrid,41.6574,-0.8764,0
-79.154.223.81,ES,Spain,CL,Castille and LeÃ³n,Burgos,09006,Europe/Madrid,42.3502,-3.6753,0
+79.154.223.81,ES,Spain,CL,Castille and León,Burgos,09006,Europe/Madrid,42.3502,-3.6753,0
 157.55.34.100,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 109.211.53.111,FR,France,PDL,Pays de la Loire,Peault,85320,Europe/Paris,46.5031,-1.2251,0
 84.79.155.111,ES,Spain,AN,Andalusia,Los Palacios y Villafranca,41720,Europe/Madrid,37.1618,-5.9243,0
@@ -2124,7 +2124,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 212.170.226.194,ES,Spain,AN,Andalusia,Seville,41001,Europe/Madrid,37.3834,-5.9789,0
 157.56.93.85,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 78.134.68.217,IT,Italy,25,Lombardy,Fiorano al Serio,24020,Europe/Rome,45.8002,9.8428,0
-88.163.146.85,FR,France,IDF,ÃŽle-de-France,Bussy-Saint-Georges,77600,Europe/Paris,48.8375,2.7037,0
+88.163.146.85,FR,France,IDF,Île-de-France,Bussy-Saint-Georges,77600,Europe/Paris,48.8375,2.7037,0
 79.108.11.51,ES,Spain,AN,Andalusia,Cadiz,11008,Europe/Madrid,36.526,-6.2968,0
 213.9.211.6,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 195.53.168.35,ES,Spain,CB,Cantabria,Castro Urdiales,39700,Europe/Madrid,43.3798,-3.2101,0
@@ -2133,7 +2133,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 83.49.236.10,ES,Spain,GA,Galicia,Vigo,36213,Europe/Madrid,42.2338,-8.7252,0
 64.71.204.200,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 83.36.73.26,ES,Spain,CT,Catalonia,Sant Celoni,08470,Europe/Madrid,41.6801,2.4821,0
-2.139.201.29,ES,Spain,VC,Valencia,CastellÃ³ de la Plana,12002,Europe/Madrid,40.2086,0.0311,0
+2.139.201.29,ES,Spain,VC,Valencia,Castelló de la Plana,12002,Europe/Madrid,40.2086,0.0311,0
 81.45.52.193,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 188.76.115.200,ES,Spain,MD,Madrid,Madrid,28037,Europe/Madrid,40.4143,-3.7016,0
 199.30.16.139,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
@@ -2143,7 +2143,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 123.125.71.105,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 80.33.156.122,ES,Spain,CT,Catalonia,Barcelona,08002,Europe/Madrid,41.3891,2.1611,0
 95.22.61.120,ES,Spain,MD,Madrid,Mostoles,28932,Europe/Madrid,40.3223,-3.8621,0
-188.85.195.156,ES,Spain,AN,Andalusia,MÃ¡laga,29190,Europe/Madrid,36.7182,-4.4192,0
+188.85.195.156,ES,Spain,AN,Andalusia,Málaga,29190,Europe/Madrid,36.7182,-4.4192,0
 90.39.111.225,FR,France,null,null,null,null,Europe/Paris,48.8582,2.3387,0
 83.34.1.101,ES,Spain,VC,Valencia,Valencia,46015,Europe/Madrid,39.4705,-0.3765,0
 195.57.19.96,ES,Spain,MD,Madrid,Madrid,28001,Europe/Madrid,40.4171,-3.6839,0
@@ -2156,7 +2156,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 81.184.19.126,ES,Spain,CT,Catalonia,Barcelona,08042,Europe/Madrid,41.3891,2.1611,0
 178.23.209.206,ES,Spain,CT,Catalonia,Polinya,08213,Europe/Madrid,41.5497,2.1475,0
 202.46.48.18,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-195.57.124.71,ES,Spain,AN,Andalusia,MÃ¡laga,29005,Europe/Madrid,36.7182,-4.4192,0
+195.57.124.71,ES,Spain,AN,Andalusia,Málaga,29005,Europe/Madrid,36.7182,-4.4192,0
 85.136.55.82,ES,Spain,AN,Andalusia,Granada,18001,Europe/Madrid,37.1757,-3.5975,0
 95.62.181.69,ES,Spain,VC,Valencia,Onda,12200,Europe/Madrid,39.9667,-0.25,0
 92.58.37.48,ES,Spain,MD,Madrid,Madrid,28032,Europe/Madrid,40.4143,-3.7016,0
@@ -2171,14 +2171,14 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 95.63.234.126,ES,Spain,GA,Galicia,Vigo,36211,Europe/Madrid,42.2338,-8.7252,0
 54.213.239.22,US,United States,OR,Oregon,Boardman,97818,America/Los_Angeles,45.8491,-119.7143,810
 147.84.33.60,ES,Spain,MC,Murcia,Guadalupe,30107,Europe/Madrid,38.0,-1.1756,0
-88.6.65.66,ES,Spain,AS,Principality of Asturias,AvilÃ©s,33401,Europe/Madrid,43.5611,-5.9191,0
+88.6.65.66,ES,Spain,AS,Principality of Asturias,Avilés,33401,Europe/Madrid,43.5611,-5.9191,0
 54.213.214.133,US,United States,OR,Oregon,Boardman,97818,America/Los_Angeles,45.8491,-119.7143,810
 83.59.47.154,ES,Spain,AN,Andalusia,Palomares del Rio,41928,Europe/Madrid,37.3222,-6.0575,0
 173.228.226.134,PR,Puerto Rico,null,null,Canovanas,00729,America/Puerto_Rico,18.3748,-65.8954,0
 81.34.246.7,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 54.213.139.3,US,United States,OR,Oregon,Boardman,97818,America/Los_Angeles,45.8491,-119.7143,810
 84.124.120.186,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
-89.7.32.18,ES,Spain,IB,Balearic Islands,MarratxÃ­,07141,Europe/Madrid,39.6428,2.759,0
+89.7.32.18,ES,Spain,IB,Balearic Islands,Marratxí,07141,Europe/Madrid,39.6428,2.759,0
 212.145.232.85,ES,Spain,VC,Valencia,Tavernes Blanques,46127,Europe/Madrid,39.5,-0.3668,0
 157.55.34.105,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 83.52.142.253,ES,Spain,CT,Catalonia,Barcelona,08024,Europe/Madrid,41.3891,2.1611,0
@@ -2196,27 +2196,27 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 195.76.89.2,ES,Spain,IB,Balearic Islands,Palma,07008,Europe/Madrid,39.5661,2.6484,0
 157.55.32.162,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 193.192.58.164,DE,Germany,HE,Hesse,Frankfurt am Main,60314,Europe/Berlin,50.1103,8.7147,0
-62.83.34.31,ES,Spain,AS,Principality of Asturias,GijÃ³n,33208,Europe/Madrid,43.5357,-5.6615,0
+62.83.34.31,ES,Spain,AS,Principality of Asturias,Gijón,33208,Europe/Madrid,43.5357,-5.6615,0
 199.30.20.2,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 65.55.55.230,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-89.156.76.5,FR,France,IDF,ÃŽle-de-France,Champs-sur-Marne,77420,Europe/Paris,48.85,2.6,0
+89.156.76.5,FR,France,IDF,Île-de-France,Champs-sur-Marne,77420,Europe/Paris,48.85,2.6,0
 80.24.18.93,ES,Spain,CT,Catalonia,Girona,17004,Europe/Madrid,41.9813,2.8257,0
 46.253.41.150,ES,Spain,CT,Catalonia,Girona,17001,Europe/Madrid,41.9813,2.8257,0
 194.208.79.18,AT,Austria,8,Vorarlberg,Rankweil,6830,Europe/Vienna,47.2711,9.6431,0
 88.8.137.76,ES,Spain,PV,Basque Country,null,48410,Europe/Madrid,43.0965,-2.8761,0
 83.55.108.9,ES,Spain,CM,Castille-La Mancha,Cuenca,16002,Europe/Madrid,40.0667,-2.1334,0
-79.146.101.156,ES,Spain,AN,Andalusia,MÃ¡laga,29007,Europe/Madrid,36.7182,-4.4192,0
+79.146.101.156,ES,Spain,AN,Andalusia,Málaga,29007,Europe/Madrid,36.7182,-4.4192,0
 65.55.55.231,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 202.46.55.28,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 208.43.248.248,US,United States,VA,Virginia,Chantilly,20151,America/New_York,38.8879,-77.4448,511
 208.43.243.245,US,United States,VA,Virginia,Chantilly,20151,America/New_York,38.8879,-77.4448,511
-79.86.153.209,FR,France,HDF,Hauts-de-France,CrÃ©py-en-Valois,60800,Europe/Paris,49.2336,2.8881,0
+79.86.153.209,FR,France,HDF,Hauts-de-France,Crépy-en-Valois,60800,Europe/Paris,49.2336,2.8881,0
 208.43.245.244,US,United States,VA,Virginia,Chantilly,20151,America/New_York,38.8879,-77.4448,511
 85.60.169.219,ES,Spain,NC,Navarre,Estella-Lizarra,31200,Europe/Madrid,42.6718,-2.0324,0
 83.40.164.172,ES,Spain,VC,Valencia,Alicante,03001,Europe/Madrid,38.3432,-0.4807,0
 79.151.161.187,ES,Spain,CM,Castille-La Mancha,Cuenca,16004,Europe/Madrid,40.0667,-2.1334,0
 84.88.229.249,ES,Spain,CT,Catalonia,Barcelona,08022,Europe/Madrid,41.3891,2.1611,0
-89.3.19.43,FR,France,IDF,ÃŽle-de-France,Paris,75011,Europe/Paris,48.8543,2.3527,0
+89.3.19.43,FR,France,IDF,Île-de-France,Paris,75011,Europe/Paris,48.8543,2.3527,0
 90.165.7.176,ES,Spain,CM,Castille-La Mancha,Gerindote,45518,Europe/Madrid,39.9685,-4.306,0
 157.55.35.113,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 157.55.33.31,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
@@ -2230,7 +2230,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 90.175.73.135,ES,Spain,AN,Andalusia,Andujar,23740,Europe/Madrid,38.0392,-4.0508,0
 88.25.168.48,ES,Spain,MD,Madrid,Madrid,28004,Europe/Madrid,40.4143,-3.7016,0
 195.76.9.187,ES,Spain,CT,Catalonia,Barcelona,08025,Europe/Madrid,41.3891,2.1611,0
-95.22.249.231,ES,Spain,CN,Canary Islands,San SebastiÃ¡n de La Gomera,20006,Atlantic/Canary,28.0869,-17.1104,0
+95.22.249.231,ES,Spain,CN,Canary Islands,San Sebastián de La Gomera,20006,Atlantic/Canary,28.0869,-17.1104,0
 83.47.29.84,ES,Spain,MD,Madrid,Madrid,28050,Europe/Madrid,40.4143,-3.7016,0
 188.86.12.233,ES,Spain,PV,Basque Country,Durango,48200,Europe/Madrid,43.1744,-2.6356,0
 88.3.112.110,ES,Spain,CN,Canary Islands,Adeje,38670,Atlantic/Canary,28.1316,-16.7453,0
@@ -2262,7 +2262,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 187.133.219.242,MX,Mexico,ZAC,Zacatecas,Sombrerete,99100,America/Mexico_City,23.6498,-103.6934,0
 192.95.21.13,CA,Canada,QC,Quebec,Montreal,H3A,America/Toronto,45.5063,-73.5795,0
 217.127.176.170,ES,Spain,PV,Basque Country,Vitoria-Gasteiz,01006,Europe/Madrid,42.8528,-2.6703,0
-181.51.237.57,CO,Colombia,NSA,Departamento de Norte de Santander,CÃºcuta,540001,America/Bogota,7.8958,-72.5061,0
+181.51.237.57,CO,Colombia,NSA,Departamento de Norte de Santander,Cúcuta,540001,America/Bogota,7.8958,-72.5061,0
 199.30.20.207,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 83.37.214.231,ES,Spain,AN,Andalusia,Guadiaro,11311,Europe/Madrid,36.2999,-5.3052,0
 90.174.2.154,ES,Spain,MD,Madrid,Madrid,28019,Europe/Madrid,40.4143,-3.7016,0
@@ -2271,7 +2271,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 77.224.16.21,ES,Spain,VC,Valencia,Nules,12520,Europe/Madrid,39.8536,-0.1564,0
 109.111.118.37,AD,Andorra,07,Andorra la Vella,Andorra la Vella,null,Europe/Andorra,42.5055,1.5243,0
 31.221.192.130,ES,Spain,CT,Catalonia,null,null,Europe/Madrid,41.3949,2.1756,0
-187.172.246.119,MX,Mexico,SIN,Sinaloa,MazatlÃ¡n,82165,America/Mazatlan,23.2577,-106.4169,0
+187.172.246.119,MX,Mexico,SIN,Sinaloa,Mazatlán,82165,America/Mazatlan,23.2577,-106.4169,0
 84.123.122.159,ES,Spain,IB,Balearic Islands,Palma,07013,Europe/Madrid,39.5661,2.6484,0
 178.24.218.88,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
 199.30.20.214,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
@@ -2280,7 +2280,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 90.170.19.33,ES,Spain,MD,Madrid,Madrid,28005,Europe/Madrid,40.4143,-3.7016,0
 178.137.82.209,UA,Ukraine,46,L'vivs'ka Oblast',Lviv,79059,Europe/Kiev,49.8486,24.0323,0
 90.174.2.231,ES,Spain,MD,Madrid,Madrid,28019,Europe/Madrid,40.4143,-3.7016,0
-95.18.181.85,ES,Spain,CL,Castille and LeÃ³n,Ponferrada,24404,Europe/Madrid,42.5466,-6.5962,0
+95.18.181.85,ES,Spain,CL,Castille and León,Ponferrada,24404,Europe/Madrid,42.5466,-6.5962,0
 189.130.53.227,MX,Mexico,CMX,Mexico City,Mexico City,15530,America/Mexico_City,19.4348,-99.0886,0
 157.56.93.148,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 95.121.187.150,ES,Spain,MD,Madrid,Sevilla La Nueva,28609,Europe/Madrid,40.3478,-4.0273,0
@@ -2300,12 +2300,12 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 199.30.20.3,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 220.181.108.113,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 217.127.87.222,ES,Spain,IB,Balearic Islands,Palma,07002,Europe/Madrid,39.5661,2.6484,0
-83.45.91.249,ES,Spain,CT,Catalonia,Vilafranca del PenedÃ¨s,08720,Europe/Madrid,41.3425,1.6979,0
+83.45.91.249,ES,Spain,CT,Catalonia,Vilafranca del Penedès,08720,Europe/Madrid,41.3425,1.6979,0
 80.38.244.251,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 202.46.63.90,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 83.59.95.55,ES,Spain,CT,Catalonia,el Masroig,43736,Europe/Madrid,41.135,0.7321,0
 77.225.180.158,ES,Spain,MD,Madrid,Madrid,28055,Europe/Madrid,40.4143,-3.7016,0
-82.226.255.192,FR,France,IDF,ÃŽle-de-France,Villeneuve-le-Roi,94290,Europe/Paris,48.7368,2.4008,0
+82.226.255.192,FR,France,IDF,Île-de-France,Villeneuve-le-Roi,94290,Europe/Paris,48.7368,2.4008,0
 84.122.176.188,ES,Spain,AN,Andalusia,Algeciras,11207,Europe/Madrid,36.1333,-5.4505,0
 84.126.15.127,ES,Spain,MC,Murcia,Murcia,30011,Europe/Madrid,37.9881,-1.1247,0
 2.40.14.75,IT,Italy,25,Lombardy,Voghera,27058,Europe/Rome,44.9915,9.0117,0
@@ -2313,18 +2313,18 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 157.55.32.148,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 186.187.154.96,VE,Venezuela,null,null,null,null,America/Caracas,8.0,-66.0,0
 79.150.228.92,ES,Spain,MD,Madrid,Madrid,28024,Europe/Madrid,40.4143,-3.7016,0
-177.158.31.34,BR,Brazil,GO,Goias,GoiÃ¢nia,74000,America/Sao_Paulo,-16.6397,-49.2591,0
+177.158.31.34,BR,Brazil,GO,Goias,Goiânia,74000,America/Sao_Paulo,-16.6397,-49.2591,0
 95.127.247.217,ES,Spain,AN,Andalusia,null,null,Europe/Madrid,36.7286,-4.4337,0
 213.143.49.93,ES,Spain,CT,Catalonia,Barcelona,08035,Europe/Madrid,41.3891,2.1611,0
 92.59.65.175,ES,Spain,MD,Madrid,Madrid,28034,Europe/Madrid,40.4143,-3.7016,0
-179.216.212.251,BR,Brazil,MT,Mato Grosso,CuiabÃ¡,78000,America/Cuiaba,-15.4192,-55.8902,0
-82.231.192.112,FR,France,IDF,ÃŽle-de-France,Saint-Denis,93200,Europe/Paris,48.9335,2.3661,0
+179.216.212.251,BR,Brazil,MT,Mato Grosso,Cuiabá,78000,America/Cuiaba,-15.4192,-55.8902,0
+82.231.192.112,FR,France,IDF,Île-de-France,Saint-Denis,93200,Europe/Paris,48.9335,2.3661,0
 85.155.203.80,ES,Spain,CN,Canary Islands,Las Palmas de Gran Canaria,35011,Atlantic/Canary,28.0981,-15.4648,0
 186.82.214.90,CO,Colombia,VAC,Departamento del Valle del Cauca,Santiago de Cali,760033,America/Bogota,3.4384,-76.5232,0
 90.12.132.39,FR,France,PDL,Pays de la Loire,Nantes,44000,Europe/Paris,47.2145,-1.5512,0
 182.118.22.224,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 31.4.178.110,ES,Spain,MD,Madrid,Madrid,28043,Europe/Madrid,40.4143,-3.7016,0
-62.175.138.102,ES,Spain,AN,Andalusia,MÃ¡laga,29018,Europe/Madrid,36.7182,-4.4192,0
+62.175.138.102,ES,Spain,AN,Andalusia,Málaga,29018,Europe/Madrid,36.7182,-4.4192,0
 217.29.96.144,ES,Spain,AN,Andalusia,El Viso del Alcor,41520,Europe/Madrid,37.3911,-5.7199,0
 46.39.212.184,ES,Spain,AN,Andalusia,Canada del Rabadan,14113,Europe/Madrid,37.6563,-5.0785,0
 195.53.71.8,ES,Spain,AN,Andalusia,Benalmadena Costa,29630,Europe/Madrid,36.6,-4.5369,0
@@ -2333,7 +2333,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 87.220.112.95,ES,Spain,AN,Andalusia,Brenes,41310,Europe/Madrid,37.5494,-5.8715,0
 202.46.62.201,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 95.18.84.69,ES,Spain,CB,Cantabria,Villasevil,39698,Europe/Madrid,43.2561,-3.9274,0
-81.203.188.244,ES,Spain,MD,Madrid,AlcorcÃ³n,28922,Europe/Madrid,40.3458,-3.8249,0
+81.203.188.244,ES,Spain,MD,Madrid,Alcorcón,28922,Europe/Madrid,40.3458,-3.8249,0
 88.160.205.40,FR,France,OCC,Occitanie,Caussade,82300,Europe/Paris,44.1627,1.5405,0
 130.0.113.65,FR,France,BRE,Brittany,Loudeac,22600,Europe/Paris,48.1783,-2.7544,0
 176.80.71.133,ES,Spain,MD,Madrid,Madrid,28016,Europe/Madrid,40.4143,-3.7016,0
@@ -2355,10 +2355,10 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 31.4.236.58,ES,Spain,VC,Valencia,Valencia,46007,Europe/Madrid,39.4705,-0.3765,0
 212.142.206.209,ES,Spain,PV,Basque Country,null,01160,Europe/Madrid,43.0506,-2.5609,0
 85.57.252.60,ES,Spain,AN,Andalusia,Granada,18008,Europe/Madrid,37.1879,-3.604,0
-190.249.144.149,CO,Colombia,ANT,Antioquia,MedellÃ­n,050001,America/Bogota,6.2529,-75.5646,0
-79.146.101.12,ES,Spain,AN,Andalusia,MÃ¡laga,29007,Europe/Madrid,36.7182,-4.4192,0
+190.249.144.149,CO,Colombia,ANT,Antioquia,Medellín,050001,America/Bogota,6.2529,-75.5646,0
+79.146.101.12,ES,Spain,AN,Andalusia,Málaga,29007,Europe/Madrid,36.7182,-4.4192,0
 83.37.157.138,ES,Spain,VC,Valencia,Valencia,46014,Europe/Madrid,39.4705,-0.3765,0
-87.223.247.164,ES,Spain,CL,Castille and LeÃ³n,Arapiles,37796,Europe/Madrid,40.8969,-5.6471,0
+87.223.247.164,ES,Spain,CL,Castille and León,Arapiles,37796,Europe/Madrid,40.8969,-5.6471,0
 179.234.170.75,BR,Brazil,SP,Sao Paulo,Piracicaba,13400,America/Sao_Paulo,-22.7159,-47.7734,0
 84.122.128.226,ES,Spain,AN,Andalusia,Cadiz,11010,Europe/Madrid,36.526,-6.2968,0
 81.202.148.197,ES,Spain,VC,Valencia,Valencia,46005,Europe/Madrid,39.4705,-0.3765,0
@@ -2379,8 +2379,8 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 82.159.117.25,ES,Spain,MD,Madrid,Madrid,28017,Europe/Madrid,40.4143,-3.7016,0
 85.137.133.144,ES,Spain,AN,Andalusia,Granada,18004,Europe/Madrid,37.1879,-3.604,0
 148.251.11.131,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
-188.76.243.249,ES,Spain,CL,Castille and LeÃ³n,Valladolid,47014,Europe/Madrid,41.6534,-4.7234,0
-179.197.19.8,BR,Brazil,RJ,Rio de Janeiro,NiterÃ³i,24000,America/Sao_Paulo,-22.922,-43.1025,0
+188.76.243.249,ES,Spain,CL,Castille and León,Valladolid,47014,Europe/Madrid,41.6534,-4.7234,0
+179.197.19.8,BR,Brazil,RJ,Rio de Janeiro,Niterói,24000,America/Sao_Paulo,-22.922,-43.1025,0
 176.100.232.105,ES,Spain,MC,Murcia,Yecla,30510,Europe/Madrid,38.6137,-1.1147,0
 81.203.227.2,ES,Spain,MD,Madrid,Madrid,28033,Europe/Madrid,40.4143,-3.7016,0
 187.144.53.170,MX,Mexico,COL,Colima,Colima,28030,America/Mexico_City,19.2534,-103.7054,0
@@ -2396,7 +2396,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 125.214.65.181,AU,Australia,null,null,null,null,Australia/Sydney,-33.494,143.2104,0
 144.76.95.39,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
 190.160.31.130,CL,Chile,RM,Santiago Metropolitan,La Reina,null,America/Santiago,-33.45,-70.55,0
-88.26.34.51,ES,Spain,AN,Andalusia,SanlÃºcar de Barrameda,11540,Europe/Madrid,36.7781,-6.3515,0
+88.26.34.51,ES,Spain,AN,Andalusia,Sanlúcar de Barrameda,11540,Europe/Madrid,36.7781,-6.3515,0
 88.198.227.103,DE,Germany,HH,Hamburg,Hamburg,22527,Europe/Berlin,53.593,9.9397,0
 74.80.133.229,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 202.46.49.71,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
@@ -2407,14 +2407,14 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 188.244.80.133,ES,Spain,AR,Aragon,Zaragoza,50009,Europe/Madrid,41.6574,-0.8764,0
 119.63.196.94,JP,Japan,null,null,null,null,Asia/Tokyo,35.69,139.69,0
 189.149.135.146,MX,Mexico,null,null,null,null,America/Mexico_City,19.4371,-99.0111,0
-190.183.29.142,AR,Argentina,E,Entre Rios,ParanÃ¡,3100,America/Argentina/Cordoba,-31.733,-60.5297,0
+190.183.29.142,AR,Argentina,E,Entre Rios,Paraná,3100,America/Argentina/Cordoba,-31.733,-60.5297,0
 96.242.31.129,US,United States,NJ,New Jersey,Bayonne,07002,America/New_York,40.6679,-74.1178,501
 84.123.55.84,ES,Spain,IB,Balearic Islands,Palma,07008,Europe/Madrid,39.5661,2.6484,0
 41.66.32.205,CI,Ivory Coast,null,null,null,null,Africa/Abidjan,8.0,-5.0,0
 190.214.206.116,EC,Ecuador,M,Provincia de Manabi,Manta,null,America/Guayaquil,-0.95,-80.7333,0
 181.196.179.2,EC,Ecuador,G,Provincia del Guayas,Guayaquil,null,America/Guayaquil,-2.1664,-79.9011,0
 199.30.20.21,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
-88.180.191.25,FR,France,PAC,Provence-Alpes-CÃ´te d'Azur,La Farlede,83210,Europe/Paris,43.1677,6.0427,0
+88.180.191.25,FR,France,PAC,Provence-Alpes-Côte d'Azur,La Farlede,83210,Europe/Paris,43.1677,6.0427,0
 199.30.20.231,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 148.251.11.136,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
 202.46.56.44,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
@@ -2430,7 +2430,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 151.72.16.123,IT,Italy,75,Apulia,Andria,76123,Europe/Rome,41.2325,16.3097,0
 194.153.113.13,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
 125.24.181.204,TH,Thailand,10,Bangkok,Bangkok,10200,Asia/Bangkok,13.7594,100.4889,0
-201.200.111.98,CR,Costa Rica,SJ,Provincia de San Jose,San JosÃ©,11301,America/Costa_Rica,9.962,-84.0787,0
+201.200.111.98,CR,Costa Rica,SJ,Provincia de San Jose,San José,11301,America/Costa_Rica,9.962,-84.0787,0
 81.44.3.95,ES,Spain,EX,Extremadura,Villafranca de los Barros,06220,Europe/Madrid,38.5664,-6.341,0
 31.13.97.118,IE,Ireland,null,null,null,null,Europe/Dublin,53.3472,-6.2439,0
 31.13.97.119,IE,Ireland,null,null,null,null,Europe/Dublin,53.3472,-6.2439,0
@@ -2447,7 +2447,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 54.211.33.225,US,United States,VA,Virginia,Ashburn,20149,America/New_York,39.0481,-77.4729,511
 216.152.251.72,US,United States,AZ,Arizona,Yuma,85364,America/Phoenix,32.7015,-114.643,771
 46.222.53.80,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
-78.206.204.35,FR,France,PAC,Provence-Alpes-CÃ´te d'Azur,Menton,06500,Europe/Paris,43.7732,7.5046,0
+78.206.204.35,FR,France,PAC,Provence-Alpes-Côte d'Azur,Menton,06500,Europe/Paris,43.7732,7.5046,0
 199.30.25.201,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 202.46.62.29,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 173.252.101.114,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
@@ -2467,7 +2467,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 81.45.55.240,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 192.185.81.94,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 66.147.244.126,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-109.8.122.25,FR,France,PAC,Provence-Alpes-CÃ´te d'Azur,Venelles,13770,Europe/Paris,43.5984,5.4853,0
+109.8.122.25,FR,France,PAC,Provence-Alpes-Côte d'Azur,Venelles,13770,Europe/Paris,43.5984,5.4853,0
 31.170.160.93,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 90.165.68.246,ES,Spain,MD,Madrid,Madrid,28032,Europe/Madrid,40.4143,-3.7016,0
 89.131.137.162,ES,Spain,AN,Andalusia,Carmona,41410,Europe/Madrid,37.4712,-5.6461,0
@@ -2481,7 +2481,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 93.156.12.123,ES,Spain,AS,Principality of Asturias,Oviedo,33013,Europe/Madrid,43.359,-5.8444,0
 157.55.34.174,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 95.18.254.49,ES,Spain,MD,Madrid,Madrid,28005,Europe/Madrid,40.4143,-3.7016,0
-88.161.119.108,FR,France,IDF,ÃŽle-de-France,Boulogne-Billancourt,92100,Europe/Paris,48.8356,2.2549,0
+88.161.119.108,FR,France,IDF,Île-de-France,Boulogne-Billancourt,92100,Europe/Paris,48.8356,2.2549,0
 80.243.187.148,GB,United Kingdom,ENG,England,Fleet,GU52,Europe/London,51.2833,-0.8333,0
 195.132.241.93,FR,France,ARA,Auvergne-Rhone-Alpes,Caluire-et-Cuire,69300,Europe/Paris,45.791,4.846,0
 213.143.58.246,ES,Spain,AN,Andalusia,Seville,41006,Europe/Madrid,37.3834,-5.9789,0
@@ -2521,11 +2521,11 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 66.249.64.206,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 209.190.1.131,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 157.55.32.83,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-88.26.14.239,ES,Spain,CL,Castille and LeÃ³n,Valladolid,47012,Europe/Madrid,41.6534,-4.7234,0
+88.26.14.239,ES,Spain,CL,Castille and León,Valladolid,47012,Europe/Madrid,41.6534,-4.7234,0
 81.45.53.18,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 199.30.25.205,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 2.140.27.253,ES,Spain,CT,Catalonia,Terrassa,08225,Europe/Madrid,41.567,2.0169,0
-82.216.226.161,FR,France,IDF,ÃŽle-de-France,Paris,75010,Europe/Paris,48.8543,2.3527,0
+82.216.226.161,FR,France,IDF,Île-de-France,Paris,75010,Europe/Paris,48.8543,2.3527,0
 84.77.50.136,ES,Spain,CT,Catalonia,Barcelona,08004,Europe/Madrid,41.3891,2.1611,0
 62.82.70.58,ES,Spain,MD,Madrid,Madrid,28043,Europe/Madrid,40.4143,-3.7016,0
 112.200.39.14,PH,Philippines,00,Metro Manila,Caloocan City,1106,Asia/Manila,14.6479,120.9826,0
@@ -2543,7 +2543,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 85.244.39.67,PT,Portugal,20,Azores,Ponta Delgada,9500-000,Atlantic/Azores,37.7333,-25.6667,0
 157.55.33.100,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 199.30.24.133,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-90.44.41.135,FR,France,IDF,ÃŽle-de-France,Limours,91470,Europe/Paris,48.6462,2.0769,0
+90.44.41.135,FR,France,IDF,Île-de-France,Limours,91470,Europe/Paris,48.6462,2.0769,0
 157.55.32.81,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 188.119.219.26,ES,Spain,CT,Catalonia,Vilanova de la Roca,08410,Europe/Madrid,41.5534,2.2858,0
 81.45.53.81,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
@@ -2556,18 +2556,18 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 220.181.108.90,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 137.183.232.29,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 77.21.21.214,DE,Germany,NI,Lower Saxony,Hildesheim,31137,Europe/Berlin,52.1603,9.9331,0
-46.218.182.2,FR,France,IDF,ÃŽle-de-France,Chaville,92370,Europe/Paris,48.803,2.191,0
+46.218.182.2,FR,France,IDF,Île-de-France,Chaville,92370,Europe/Paris,48.803,2.191,0
 81.203.193.174,ES,Spain,CM,Castille-La Mancha,Guadalajara,19005,Europe/Madrid,40.6286,-3.1618,0
 157.56.93.94,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 192.96.204.42,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 202.46.55.57,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 2.139.225.57,ES,Spain,CT,Catalonia,Barcelona,08013,Europe/Madrid,41.3891,2.1611,0
 95.60.80.47,ES,Spain,AN,Andalusia,Mancha Real,23100,Europe/Madrid,37.7863,-3.6123,0
-90.8.182.206,FR,France,PAC,Provence-Alpes-CÃ´te d'Azur,Nice,06000,Europe/Paris,43.7168,7.268,0
+90.8.182.206,FR,France,PAC,Provence-Alpes-Côte d'Azur,Nice,06000,Europe/Paris,43.7168,7.268,0
 81.45.55.3,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 101.226.167.226,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 81.45.52.195,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
-93.23.197.120,FR,France,PAC,Provence-Alpes-CÃ´te d'Azur,Marseille,13001,Europe/Paris,43.2951,5.3861,0
+93.23.197.120,FR,France,PAC,Provence-Alpes-Côte d'Azur,Marseille,13001,Europe/Paris,43.2951,5.3861,0
 148.251.69.136,DE,Germany,null,null,null,null,Europe/Berlin,51.2993,9.491,0
 217.125.21.135,ES,Spain,MD,Madrid,Madrid,28007,Europe/Madrid,40.4143,-3.7016,0
 2.136.222.9,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
@@ -2580,10 +2580,10 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 85.51.154.164,ES,Spain,MD,Madrid,Madrid,28020,Europe/Madrid,40.4143,-3.7016,0
 93.186.202.244,GB,United Kingdom,ENG,England,Sheffield,S2,Europe/London,53.3831,-1.4601,0
 88.22.104.55,ES,Spain,RI,La Rioja,Banares,26257,Europe/Madrid,42.4688,-2.9131,0
-88.5.41.112,ES,Spain,AN,Andalusia,MÃ¡laga,29018,Europe/Madrid,36.7182,-4.4192,0
+88.5.41.112,ES,Spain,AN,Andalusia,Málaga,29018,Europe/Madrid,36.7182,-4.4192,0
 65.55.52.118,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 202.46.62.97,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-93.0.137.129,FR,France,BFC,Bourgogne-Franche-Comte,Chalon-sur-SaÃ´ne,71100,Europe/Paris,46.7836,4.8499,0
+93.0.137.129,FR,France,BFC,Bourgogne-Franche-Comte,Chalon-sur-Saône,71100,Europe/Paris,46.7836,4.8499,0
 66.249.76.215,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 78.240.90.149,FR,France,OCC,Occitanie,Tarbes,65000,Europe/Paris,43.2313,0.0838,0
 65.55.52.108,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
@@ -2591,7 +2591,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 142.54.184.10,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 82.212.144.59,BE,Belgium,WAL,Wallonia,Verviers,4800,Europe/Brussels,50.5891,5.8624,0
 157.55.34.97,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-2.139.23.118,ES,Spain,CT,Catalonia,CadaquÃ©s,17488,Europe/Madrid,42.2886,3.2771,0
+2.139.23.118,ES,Spain,CT,Catalonia,Cadaqués,17488,Europe/Madrid,42.2886,3.2771,0
 77.225.252.174,ES,Spain,PV,Basque Country,Hernani,20120,Europe/Madrid,43.2682,-1.9703,0
 85.87.134.107,ES,Spain,PV,Basque Country,Leioa,48940,Europe/Madrid,43.3357,-2.9865,0
 83.46.27.9,ES,Spain,CT,Catalonia,Tarragona,43001,Europe/Madrid,41.1167,1.25,0
@@ -2603,7 +2603,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 65.55.219.133,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
 202.46.55.26,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 81.184.251.178,ES,Spain,AR,Aragon,Zaragoza,50009,Europe/Madrid,41.6574,-0.8764,0
-95.39.143.223,ES,Spain,IB,Balearic Islands,MarratxÃ­,07141,Europe/Madrid,39.6428,2.759,0
+95.39.143.223,ES,Spain,IB,Balearic Islands,Marratxí,07141,Europe/Madrid,39.6428,2.759,0
 61.135.190.102,CN,China,BJ,Beijing,Beijing,null,Asia/Shanghai,39.9288,116.3889,0
 61.135.190.222,CN,China,BJ,Beijing,Beijing,null,Asia/Shanghai,39.9288,116.3889,0
 2.136.76.13,ES,Spain,MD,Madrid,Madrid,28050,Europe/Madrid,40.4143,-3.7016,0
@@ -2612,13 +2612,13 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 189.107.178.153,BR,Brazil,MG,Minas Gerais,Juiz de Fora,36000,America/Sao_Paulo,-21.749,-43.4382,0
 69.171.245.115,US,United States,DE,Delaware,Newark,19717,America/New_York,39.6876,-75.7482,504
 37.132.52.255,ES,Spain,MD,Madrid,Madrid,28041,Europe/Madrid,40.4143,-3.7016,0
-77.224.211.197,ES,Spain,CL,Castille and LeÃ³n,Valladolid,47012,Europe/Madrid,41.6534,-4.7234,0
+77.224.211.197,ES,Spain,CL,Castille and León,Valladolid,47012,Europe/Madrid,41.6534,-4.7234,0
 203.114.108.118,TH,Thailand,null,null,null,null,Asia/Bangkok,13.7442,100.4608,0
 81.45.53.89,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 81.9.176.176,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 213.143.61.105,ES,Spain,AN,Andalusia,Seville,41006,Europe/Madrid,37.3834,-5.9789,0
 81.44.182.180,ES,Spain,MD,Madrid,Collado Villalba,28400,Europe/Madrid,40.6467,-3.995,0
-82.228.31.155,FR,France,IDF,ÃŽle-de-France,Paris,75011,Europe/Paris,48.8543,2.3527,0
+82.228.31.155,FR,France,IDF,Île-de-France,Paris,75011,Europe/Paris,48.8543,2.3527,0
 157.56.93.95,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 79.159.80.179,ES,Spain,GA,Galicia,Cedeira,15350,Europe/Madrid,42.2871,-8.6156,0
 199.30.20.203,US,United States,VA,Virginia,Boydton,23917,America/New_York,36.6534,-78.375,560
@@ -2628,7 +2628,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 77.224.58.135,ES,Spain,AN,Andalusia,Alhendin,18620,Europe/Madrid,37.1079,-3.648,0
 202.46.54.45,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 95.20.95.124,ES,Spain,CL,Castille and León,Ávila,05003,Europe/Madrid,40.6561,-4.7085,0
-89.217.161.103,CH,Switzerland,NE,NeuchÃ¢tel,Bevaix,2022,Europe/Zurich,46.9296,6.8147,0
+89.217.161.103,CH,Switzerland,NE,Neuchâtel,Bevaix,2022,Europe/Zurich,46.9296,6.8147,0
 67.210.228.168,US,United States,TX,Texas,Dallas,75254,America/Chicago,32.9503,-96.819,623
 93.186.202.253,GB,United Kingdom,ENG,England,Sheffield,S2,Europe/London,53.3831,-1.4601,0
 95.18.193.187,ES,Spain,AN,Andalusia,Torremolinos,29620,Europe/Madrid,36.6183,-4.4963,0
@@ -2640,7 +2640,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 78.46.145.213,DE,Germany,BY,Bavaria,Oettingen in Bayern,86732,Europe/Berlin,48.9527,10.6046,0
 123.125.71.32,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 66.150.164.111,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-83.55.138.52,ES,Spain,CT,Catalonia,RubÃ­,08191,Europe/Madrid,41.4923,2.033,0
+83.55.138.52,ES,Spain,CT,Catalonia,Rubí,08191,Europe/Madrid,41.4923,2.033,0
 83.61.78.120,ES,Spain,AN,Andalusia,Moraleda de Zafayona,18370,Europe/Madrid,37.166,-3.9719,0
 212.142.204.251,ES,Spain,PV,Basque Country,Bilbao,48002,Europe/Madrid,43.2626,-2.9238,0
 5.135.43.132,FR,France,null,null,null,null,Europe/Paris,48.8582,2.3387,0
@@ -2649,13 +2649,13 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 128.79.117.86,FR,France,null,null,null,null,Europe/Paris,48.8582,2.3387,0
 81.45.52.124,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 81.35.209.82,ES,Spain,MD,Madrid,Madrid,28005,Europe/Madrid,40.4143,-3.7016,0
-90.28.141.207,FR,France,PAC,Provence-Alpes-CÃ´te d'Azur,Marseille,13012,Europe/Paris,43.2947,5.4331,0
+90.28.141.207,FR,France,PAC,Provence-Alpes-Côte d'Azur,Marseille,13012,Europe/Paris,43.2947,5.4331,0
 202.46.54.46,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 81.34.171.58,ES,Spain,CN,Canary Islands,Arrecife,35500,Atlantic/Canary,28.9618,-13.5473,0
 79.154.64.2,ES,Spain,CT,Catalonia,Girona,17007,Europe/Madrid,41.9813,2.8257,0
 85.155.171.1,ES,Spain,CN,Canary Islands,Telde,35220,Atlantic/Canary,27.991,-15.4218,0
 84.127.64.211,ES,Spain,VC,Valencia,Torrent,46900,Europe/Madrid,39.4371,-0.4655,0
-177.65.161.194,BR,Brazil,PA,Para,BelÃ©m,66000,America/Belem,-1.4558,-48.5044,0
+177.65.161.194,BR,Brazil,PA,Para,Belém,66000,America/Belem,-1.4558,-48.5044,0
 86.217.164.29,FR,France,NAQ,Nouvelle-Aquitaine,Rochefort,17300,Europe/Paris,45.9333,-0.9833,0
 179.30.52.54,UY,Uruguay,null,null,null,null,America/Montevideo,-33.0,-56.0,0
 157.55.35.97,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
@@ -2713,9 +2713,9 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 157.55.32.161,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 80.29.35.101,ES,Spain,CM,Castille-La Mancha,Albacete,02006,Europe/Madrid,38.9967,-1.8561,0
 157.55.35.100,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-81.169.218.204,DE,Germany,BW,Baden-WÃ¼rttemberg,Filderstadt,70794,Europe/Berlin,48.6518,9.227,0
+81.169.218.204,DE,Germany,BW,Baden-Württemberg,Filderstadt,70794,Europe/Berlin,48.6518,9.227,0
 66.249.76.219,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
-24.139.92.27,PR,Puerto Rico,null,null,MayagÃ¼ez,00680,America/Puerto_Rico,18.2043,-67.1381,0
+24.139.92.27,PR,Puerto Rico,null,null,Mayagüez,00680,America/Puerto_Rico,18.2043,-67.1381,0
 85.84.23.225,ES,Spain,PV,Basque Country,Vitoria-Gasteiz,01010,Europe/Madrid,42.8572,-2.6981,0
 188.86.128.73,ES,Spain,GA,Galicia,Pontevedra,36001,Europe/Madrid,42.4349,-8.643,0
 163.247.51.11,CL,Chile,RM,Santiago Metropolitan,Penalolen,null,America/Santiago,-33.4833,-70.5333,0
@@ -2757,7 +2757,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 31.4.193.40,ES,Spain,AN,Andalusia,Seville,41007,Europe/Madrid,37.3834,-5.9789,0
 84.121.15.48,ES,Spain,VC,Valencia,Silla,46460,Europe/Madrid,39.3667,-0.4167,0
 95.17.28.25,ES,Spain,CT,Catalonia,Montcada i Reixac,08110,Europe/Madrid,41.4825,2.1914,0
-80.102.93.226,ES,Spain,MD,Madrid,San SebastiÃ¡n de los Reyes,28701,Europe/Madrid,40.5443,-3.6159,0
+80.102.93.226,ES,Spain,MD,Madrid,San Sebastián de los Reyes,28701,Europe/Madrid,40.5443,-3.6159,0
 157.55.33.85,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 202.46.63.123,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 208.88.224.203,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
@@ -2780,21 +2780,21 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 81.35.242.252,ES,Spain,CM,Castille-La Mancha,Guadalajara,19001,Europe/Madrid,40.6286,-3.1618,0
 31.4.190.156,ES,Spain,CT,Catalonia,Barcelona,08020,Europe/Madrid,41.3891,2.1611,0
 81.45.55.212,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
-46.27.186.9,ES,Spain,AN,Andalusia,MÃ¡laga,29009,Europe/Madrid,36.7182,-4.4192,0
+46.27.186.9,ES,Spain,AN,Andalusia,Málaga,29009,Europe/Madrid,36.7182,-4.4192,0
 81.45.53.118,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 87.219.99.62,ES,Spain,AR,Aragon,Carinena,50400,Europe/Madrid,41.335,-1.2297,0
 31.4.194.181,ES,Spain,AN,Andalusia,Seville,41007,Europe/Madrid,37.3834,-5.9789,0
 94.244.143.49,UA,Ukraine,30,Kyiv City,Kyiv,03186,Europe/Kiev,50.4332,30.5219,0
-87.218.127.253,ES,Spain,CL,Castille and LeÃ³n,Mayorga,47680,Europe/Madrid,42.1671,-5.2683,0
+87.218.127.253,ES,Spain,CL,Castille and León,Mayorga,47680,Europe/Madrid,42.1671,-5.2683,0
 140.206.129.76,CN,China,SH,Shanghai,Shanghai,null,Asia/Shanghai,31.0449,121.4012,0
 81.45.52.185,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
-79.146.103.124,ES,Spain,AN,Andalusia,MÃ¡laga,29007,Europe/Madrid,36.7182,-4.4192,0
+79.146.103.124,ES,Spain,AN,Andalusia,Málaga,29007,Europe/Madrid,36.7182,-4.4192,0
 88.29.244.146,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
 202.46.54.178,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
 79.152.34.203,ES,Spain,CN,Canary Islands,Candelaria,38530,Atlantic/Canary,28.3548,-16.3727,0
-79.80.215.41,FR,France,IDF,ÃŽle-de-France,Villejuif,94800,Europe/Paris,48.7913,2.3632,0
+79.80.215.41,FR,France,IDF,Île-de-France,Villejuif,94800,Europe/Paris,48.7913,2.3632,0
 77.27.102.41,ES,Spain,GA,Galicia,Santiago de Compostela,15706,Europe/Madrid,42.8799,-8.5473,0
-81.61.132.229,ES,Spain,CT,Catalonia,Cerdanyola del VallÃ¨s,08290,Europe/Madrid,41.4911,2.1408,0
+81.61.132.229,ES,Spain,CT,Catalonia,Cerdanyola del Vallès,08290,Europe/Madrid,41.4911,2.1408,0
 175.107.129.65,AU,Australia,null,null,null,null,Australia/Sydney,-33.494,143.2104,0
 65.55.52.96,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 157.55.33.146,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
@@ -2817,15 +2817,15 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 199.30.25.61,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 83.49.192.64,ES,Spain,PV,Basque Country,Vitoria-Gasteiz,01010,Europe/Madrid,42.8572,-2.6981,0
 37.252.181.65,ES,Spain,null,null,null,null,Europe/Madrid,40.4172,-3.684,0
-79.147.199.254,ES,Spain,AS,Principality of Asturias,GijÃ³n,33209,Europe/Madrid,43.5357,-5.6615,0
+79.147.199.254,ES,Spain,AS,Principality of Asturias,Gijón,33209,Europe/Madrid,43.5357,-5.6615,0
 157.56.229.186,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 83.52.152.43,ES,Spain,CT,Catalonia,Sabadell,08208,Europe/Madrid,41.5433,2.1094,0
 80.36.142.192,ES,Spain,NC,Navarre,Pamplona,31011,Europe/Madrid,42.8158,-1.6404,0
-88.6.202.244,ES,Spain,CL,Castille and LeÃ³n,Villoruela,37338,Europe/Madrid,41.0125,-5.3925,0
+88.6.202.244,ES,Spain,CL,Castille and León,Villoruela,37338,Europe/Madrid,41.0125,-5.3925,0
 157.55.36.37,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 91.121.139.228,FR,France,null,null,null,null,Europe/Paris,48.8582,2.3387,0
 123.125.71.27,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-62.42.1.201,ES,Spain,CL,Castille and LeÃ³n,Valladolid,47014,Europe/Madrid,41.6534,-4.7234,0
+62.42.1.201,ES,Spain,CL,Castille and León,Valladolid,47014,Europe/Madrid,41.6534,-4.7234,0
 81.45.52.199,ES,Spain,MD,Madrid,Madrid,28003,Europe/Madrid,40.4143,-3.7016,0
 109.111.120.188,AD,Andorra,07,Andorra la Vella,Andorra la Vella,null,Europe/Andorra,42.5015,1.5144,0
 162.242.244.133,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
@@ -2836,7 +2836,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 95.18.238.27,ES,Spain,AS,Principality of Asturias,Castandiello,33162,Europe/Madrid,43.2819,-5.9113,0
 119.98.239.252,CN,China,HB,Hubei,Wuhan,null,Asia/Shanghai,30.5856,114.2665,0
 68.200.46.208,US,United States,FL,Florida,Inverness,34452,America/New_York,28.8358,-82.3304,539
-83.36.151.101,ES,Spain,CN,Canary Islands,San SebastiÃ¡n de La Gomera,20015,Atlantic/Canary,28.0869,-17.1104,0
+83.36.151.101,ES,Spain,CN,Canary Islands,San Sebastián de La Gomera,20015,Atlantic/Canary,28.0869,-17.1104,0
 72.45.160.188,US,United States,ME,Maine,Yarmouth,04096,America/New_York,43.7996,-70.1779,500
 80.30.133.95,ES,Spain,PV,Basque Country,Azpeitia,20730,Europe/Madrid,43.1788,-2.2624,0
 90.174.2.31,ES,Spain,MD,Madrid,Madrid,28019,Europe/Madrid,40.4143,-3.7016,0
@@ -2859,7 +2859,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 85.57.22.76,ES,Spain,AN,Andalusia,Seville,41006,Europe/Madrid,37.3834,-5.9789,0
 199.30.24.30,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 202.46.61.26,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-31.4.213.238,ES,Spain,CL,Castille and LeÃ³n,null,null,Europe/Madrid,41.6534,-4.7234,0
+31.4.213.238,ES,Spain,CL,Castille and León,null,null,Europe/Madrid,41.6534,-4.7234,0
 199.30.24.128,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 31.4.221.218,ES,Spain,AN,Andalusia,Seville,41016,Europe/Madrid,37.3834,-5.9789,0
 80.20.102.18,IT,Italy,32,Trentino-Alto Adige,Madonna di Campiglio,38086,Europe/Rome,46.2272,10.8276,0
@@ -2891,7 +2891,7 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 31.4.196.71,ES,Spain,AN,Andalusia,Seville,41007,Europe/Madrid,37.3834,-5.9789,0
 83.33.246.15,ES,Spain,CT,Catalonia,Lleida,25003,Europe/Madrid,41.6167,0.6222,0
 157.56.93.82,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
-83.45.90.2,ES,Spain,CT,Catalonia,Vilafranca del PenedÃ¨s,08720,Europe/Madrid,41.3425,1.6979,0
+83.45.90.2,ES,Spain,CT,Catalonia,Vilafranca del Penedès,08720,Europe/Madrid,41.3425,1.6979,0
 188.78.128.230,ES,Spain,CM,Castille-La Mancha,Villarrobledo,02600,Europe/Madrid,39.2699,-2.6012,0
 181.95.10.32,AR,Argentina,X,Cordoba,Unquillo,5109,America/Argentina/Cordoba,-31.2346,-64.3152,0
 89.131.91.112,ES,Spain,AN,Andalusia,Dos Hermanas,41702,Europe/Madrid,37.2819,-5.9173,0
@@ -2908,15 +2908,15 @@ ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,lat
 187.133.87.116,MX,Mexico,ZAC,Zacatecas,Guadalupe,98604,America/Mexico_City,22.7479,-102.52,0
 212.231.208.21,ES,Spain,CM,Castille-La Mancha,Malagon,13420,Europe/Madrid,39.1667,-3.8542,0
 88.20.52.218,ES,Spain,CT,Catalonia,Terrassa,08224,Europe/Madrid,41.567,2.0169,0
-31.4.208.178,ES,Spain,CL,Castille and LeÃ³n,null,null,Europe/Madrid,41.6534,-4.7234,0
+31.4.208.178,ES,Spain,CL,Castille and León,null,null,Europe/Madrid,41.6534,-4.7234,0
 87.217.147.158,ES,Spain,MD,Madrid,Madrid,28037,Europe/Madrid,40.4143,-3.7016,0
 201.31.227.195,BR,Brazil,TO,Tocantins,Cariri do Tocantins,77453,America/Araguaina,-11.9473,-49.2083,0
 157.55.34.176,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
 201.134.106.130,MX,Mexico,null,null,null,null,America/Mexico_City,19.4371,-99.0111,0
 202.46.58.28,CN,China,null,null,null,null,Asia/Shanghai,34.7725,113.7266,0
-83.63.131.193,ES,Spain,CT,Catalonia,Vilanova i la GeltrÃº,08800,Europe/Madrid,41.2203,1.7227,0
+83.63.131.193,ES,Spain,CT,Catalonia,Vilanova i la Geltrú,08800,Europe/Madrid,41.2203,1.7227,0
 46.222.83.180,ES,Spain,MD,Madrid,Madrid,28034,Europe/Madrid,40.4143,-3.7016,0
-79.155.78.117,ES,Spain,CN,Canary Islands,San CristÃ³bal de La Laguna,38207,Atlantic/Canary,28.4853,-16.3201,0
+79.155.78.117,ES,Spain,CN,Canary Islands,San Cristóbal de La Laguna,38207,Atlantic/Canary,28.4853,-16.3201,0
 217.174.248.179,GB,United Kingdom,null,null,null,null,Europe/London,51.4964,-0.1224,0
 188.135.173.80,IT,Italy,null,null,null,null,Europe/Rome,43.1479,12.1097,0
 206.198.5.33,US,United States,IL,Illinois,null,null,America/Chicago,41.8483,-87.6517,0
