@@ -1,4 +1,5 @@
 ip,country_code,country_name,region_code,region_name,city,zip_code,time_zone,latitude,longitude,metro_code
+127.0.0.1,ES,Spain,GI,Girona,Girona,17003,Europe/Madrid,41.9831,2.8249,0
 66.249.76.216,US,United States,null,null,null,null,America/Chicago,37.751,-97.822,0
 5.255.253.53,RU,Russia,MOW,Moscow,Moscow,125009,Europe/Moscow,55.7527,37.6172,0
 157.55.35.112,US,United States,WA,Washington,null,null,America/Los_Angeles,47.6032,-122.3412,0
