@@ -6,6 +6,7 @@ from dash.dependencies import Input, Output, State
 
 import plotly.express as px
 
+#CSS for the components
 # the style arguments for the sidebar.
 SIDEBAR_STYLE = {
     'position': 'fixed',
@@ -34,6 +35,7 @@ CARD_TEXT_STYLE = {
     'color': '#0074D9'
 }
 
+# controls of the sidebar which consist of a dropdown, range slider, checklist, and radio buttons
 controls = dbc.FormGroup(
     [
         html.P('Dropdown', style={
@@ -132,6 +134,7 @@ sidebar = html.Div(
     style=SIDEBAR_STYLE,
 )
 
+# the first row containing 4 cards
 content_first_row = dbc.Row([
     dbc.Col(
         dbc.Card(
@@ -192,6 +195,7 @@ content_first_row = dbc.Row([
     )
 ])
 
+# the second row have 2 columns with figures
 content_second_row = dbc.Row(
     [
         dbc.Col(
@@ -206,6 +210,7 @@ content_second_row = dbc.Row(
     ]
 )
 
+# the third row with one column with a figure
 content_third_row = dbc.Row(
     [
         dbc.Col(
@@ -214,6 +219,7 @@ content_third_row = dbc.Row(
     ]
 )
 
+# the final row with two columns with figures
 content_fourth_row = dbc.Row(
     [
         dbc.Col(
@@ -225,6 +231,7 @@ content_fourth_row = dbc.Row(
     ]
 )
 
+# The first row has 4 cards, the second row has 3 figures, the third row has one figure and the fourth row has 2 figures
 content = html.Div(
     [
         html.H2('Analytics Dashboard Template', style=TEXT_STYLE),
@@ -237,10 +244,11 @@ content = html.Div(
     style=CONTENT_STYLE
 )
 
+# Initialize app
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = html.Div([sidebar, content])
 
-
+# sample callback for a graph
 @app.callback(
     Output('graph_1', 'figure'),
     [Input('submit_button', 'n_clicks')],
@@ -355,7 +363,7 @@ def update_graph_6(n_clicks, dropdown_value, range_slider_value, check_list_valu
     fig = px.bar(df, x='total_bill', y='day', orientation='h')
     return fig
 
-
+# sample callback for Card
 @app.callback(
     Output('card_title_1', 'children'),
     [Input('submit_button', 'n_clicks')],
