@@ -1,82 +1,401 @@
 import dash
+import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
-from dash.dependencies import Input, Output
+from dash.dependencies import Input, Output, State
+
+import pandas as pd 
 import plotly.express as px
-import plotly.io as pio
-import pandas as pd
 
-template = "plotly_dark"
-# load data
-data = pd.read_csv("data/Logs_export.csv")
+df = pd.read_csv("data/Logs_export.csv")
 
-data1 = data.groupby('DNS')[['DATE']].count().sort_values(by='DATE',ascending=False).reset_index()
-data2 = data.groupby('COUNTRY_NAME')[['DNS']].count().sort_values(by='DNS',ascending=False).reset_index().head(5)
-data3 = data.groupby('CITY')[['DNS']].count().sort_values(by='DNS',ascending=False).reset_index().head(25)
+#df = df.where(df.DNS == 'www.akumenius.com' and df.COUNTRY_NAME =='Spain').count().sort_values(by='DATE',ascending=False).reset_index()
 
-app = dash.Dash(__name__)
+# CSS for the components.
+# the style arguments for the sidebar.
+SIDEBAR_STYLE = {
+    'position': 'fixed',
+    'top': 0,
+    'left': 0,
+    'bottom': 0,
+    'width': '20%',
+    'padding': '20px 10px',
+    'background-color': '#f8f9fa'
+}
 
-'''import plotly.graph_objects as go
+# the style arguments for the main content page.
+CONTENT_STYLE = {
+    'margin-left': '25%',
+    'margin-right': '5%',
+    'padding': '20px 10p'
+}
 
-df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_apple_stock.csv')
+TEXT_STYLE = {
+    'textAlign': 'center',
+    'color': '#191970'
+}
 
-fig = go.Figure(go.Scatter(x = df['AAPL_x'], y = df['AAPL_y'],
-                  name='Share Prices (in USD)'))
+CARD_TEXT_STYLE = {
+    'textAlign': 'center',
+    'color': '#0074D9'
+}
 
-fig.update_layout(title='Apple Share Prices over time (2014)',
-                   plot_bgcolor='rgb(230, 230,230)',
-                   showlegend=True)
-
-fig.show()'''
-
-app.layout = html.Div(
-    children=[
-        html.H1(children="Web Logs Analytics",),
-        html.P(
-            children="Analyze the behavior of vviews"
-            " to akumenius.com",
-        ),
-        dcc.Graph(
-            figure={
-                "data": [
-                    {
-                        "x": data1.DNS,
-                        "y": data1.DATE,
-                        "type": "scatter",
-                    },
-                ],
-                
-                "layout": {"title": "Web Views", "template":"template"},
+controls = dbc.FormGroup(
+    [
+        html.P('Dropdown', style={
+            'textAlign': 'center'
+        }),
+        dcc.Dropdown(
+            id='dropdown',
+            options=[{
+                'label': 'Value One',
+                'value': 'value1'
+            }, {
+                'label': 'Value Two',
+                'value': 'value2'
             },
+                {
+                    'label': 'Value Three',
+                    'value': 'value3'
+                }
+            ],
+            value=['value1'],  # default value
+            multi=True
         ),
-        dcc.Graph(
-            figure={
-                "data": [
-                    {
-                        "x": data2.DNS,
-                        "y": data2.COUNTRY_NAME,
-                        "type": "bar",
-                        'orientation':'h',
-                        'color':'COUNTRY_NAME',
-                    },
-                ],
-                "layout": {"title": "Country Views"},
-            },
+        html.Br(),
+        html.P('Range Slider', style={
+            'textAlign': 'center'
+        }),
+        dcc.RangeSlider(
+            id='range_slider',
+            min=0,
+            max=20,
+            step=0.5,
+            value=[5, 15]
         ),
-        dcc.Graph(
-            figure={
-                "data": [
-                    {
-                        "x": data3.CITY,
-                        "y": data3.DNS,
-                        "type": "bar",
-                    },
-                ],
-                "layout": {"title": "City Views"},
+        html.P('Check Box', style={
+            'textAlign': 'center'
+        }),
+        dbc.Card([dbc.Checklist(
+            id='check_list',
+            options=[{
+                'label': 'Value One',
+                'value': 'value1'
             },
+                {
+                    'label': 'Value Two',
+                    'value': 'value2'
+                },
+                {
+                    'label': 'Value Three',
+                    'value': 'value3'
+                }
+            ],
+            value=['value1', 'value2'],
+            inline=True
+        )]),
+        html.Br(),
+        html.P('Radio Items', style={
+            'textAlign': 'center'
+        }),
+        dbc.Card([dbc.RadioItems(
+            id='radio_items',
+            options=[{
+                'label': 'Value One',
+                'value': 'value1'
+            },
+                {
+                    'label': 'Value Two',
+                    'value': 'value2'
+                },
+                {
+                    'label': 'Value Three',
+                    'value': 'value3'
+                }
+            ],
+            value='value1',
+            style={
+                'margin': 'auto'
+            }
+        )]),
+        html.Br(),
+        dbc.Button(
+            id='submit_button',
+            n_clicks=0,
+            children='Submit',
+            color='primary',
+            block=True
         ),
     ]
 )
 
-if __name__ == "__main__":
-    app.run_server(debug=True)
+# sidebar consists of Parameters header and controls
+sidebar = html.Div(
+    [
+        html.H2('Parameters', style=TEXT_STYLE),
+        html.Hr(),
+        controls
+    ],
+    style=SIDEBAR_STYLE,
+)
+
+# the first row has 4 cards, the second row has 3 figures, the third row has one figure and the fourth row has 2 figures
+content_first_row = dbc.Row([
+    dbc.Col(
+        dbc.Card(
+            [
+
+                dbc.CardBody(
+                    [
+                        html.H4(id='card_title_1', children=['Card Title 1'], className='card-title',
+                                style=CARD_TEXT_STYLE),
+                        html.P(id='card_text_1', children=['Sample text.'], style=CARD_TEXT_STYLE),
+                    ]
+                )
+            ]
+        ),
+        md=3
+    ),
+    dbc.Col(
+        dbc.Card(
+            [
+
+                dbc.CardBody(
+                    [
+                        html.H4('Card Title 2', className='card-title', style=CARD_TEXT_STYLE),
+                        html.P('Sample text.', style=CARD_TEXT_STYLE),
+                    ]
+                ),
+            ]
+
+        ),
+        md=3
+    ),
+    dbc.Col(
+        dbc.Card(
+            [
+                dbc.CardBody(
+                    [
+                        html.H4('Card Title 3', className='card-title', style=CARD_TEXT_STYLE),
+                        html.P('Sample text.', style=CARD_TEXT_STYLE),
+                    ]
+                ),
+            ]
+
+        ),
+        md=3
+    ),
+    dbc.Col(
+        dbc.Card(
+            [
+                dbc.CardBody(
+                    [
+                        html.H4('Card Title 4', className='card-title', style=CARD_TEXT_STYLE),
+                        html.P('Sample text.', style=CARD_TEXT_STYLE),
+                    ]
+                ),
+            ]
+        ),
+        md=3
+    )
+])
+
+content_second_row = dbc.Row(
+    [
+        dbc.Col(
+            dcc.Graph(id='graph_1'), md=4
+        ),
+        dbc.Col(
+            dcc.Graph(id='graph_2'), md=4
+        ),
+        dbc.Col(
+            dcc.Graph(id='graph_3'), md=4
+        )
+    ]
+)
+
+content_third_row = dbc.Row(
+    [
+        dbc.Col(
+            dcc.Graph(id='graph_4'), md=12,
+        )
+    ]
+)
+
+content_fourth_row = dbc.Row(
+    [
+        dbc.Col(
+            dcc.Graph(id='graph_5'), md=6
+        ),
+        dbc.Col(
+            dcc.Graph(id='graph_6'), md=6
+        )
+    ]
+)
+
+content = html.Div(
+    [
+        html.H2('Analytics Dashboard Template', style=TEXT_STYLE),
+        html.Hr(),
+        content_first_row,
+        content_second_row,
+        content_third_row,
+        content_fourth_row
+    ],
+    style=CONTENT_STYLE
+)
+
+app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
+app.layout = html.Div([sidebar, content])
+
+# sample callback for a graph
+@app.callback(
+    Output('graph_1', 'figure'),
+    [Input('submit_button', 'n_clicks')],
+    [State('dropdown', 'value'), State('range_slider', 'value'), State('check_list', 'value'),
+     State('radio_items', 'value')
+     ])
+def update_graph_1(n_clicks, dropdown_value, range_slider_value, check_list_value, radio_items_value):
+    print(n_clicks)
+    print(dropdown_value)
+    print(range_slider_value)
+    print(check_list_value)
+    print(radio_items_value)
+    fig = {
+        'data': [{
+            'x': df.DNS.where(df.DNS == 'www.akumenius.com'),
+            'y': df.DATE,
+        }]
+    }
+    return fig
+
+
+@app.callback(
+    Output('graph_2', 'figure'),
+    [Input('submit_button', 'n_clicks')],
+    [State('dropdown', 'value'), State('range_slider', 'value'), State('check_list', 'value'),
+     State('radio_items', 'value')
+     ])
+def update_graph_2(n_clicks, dropdown_value, range_slider_value, check_list_value, radio_items_value):
+    print(n_clicks)
+    print(dropdown_value)
+    print(range_slider_value)
+    print(check_list_value)
+    print(radio_items_value)
+    fig = {
+        'data': [{
+            'x': df.COUNTRY_NAME,
+            'y': df.DNS.where(df.DNS == 'www.akumenius.com'),
+            'type': 'bar'
+        }]
+    }
+    return fig
+
+
+@app.callback(
+    Output('graph_3', 'figure'),
+    [Input('submit_button', 'n_clicks')],
+    [State('dropdown', 'value'), State('range_slider', 'value'), State('check_list', 'value'),
+     State('radio_items', 'value')
+     ])
+def update_graph_3(n_clicks, dropdown_value, range_slider_value, check_list_value, radio_items_value):
+    print(n_clicks)
+    print(dropdown_value)
+    print(range_slider_value)
+    print(check_list_value)
+    print(radio_items_value)
+    df = px.data.iris()
+    fig = px.density_contour(df, x='sepal_width', y='sepal_length')
+    #df = pd.read_csv("data/Logs_export.csv")
+    #fig = px.density_contour(df, x='CITY', y='DNS')
+    return fig
+
+
+@app.callback(
+    Output('graph_4', 'figure'),
+    [Input('submit_button', 'n_clicks')],
+    [State('dropdown', 'value'), State('range_slider', 'value'), State('check_list', 'value'),
+     State('radio_items', 'value')
+     ])
+def update_graph_4(n_clicks, dropdown_value, range_slider_value, check_list_value, radio_items_value):
+    print(n_clicks)
+    print(dropdown_value)
+    print(range_slider_value)
+    print(check_list_value)
+    print(radio_items_value)  # Sample data and figure
+    #df = pd.read_csv("data/Logs_export.csv").query('year==2014')
+    df = px.data.gapminder().query('year==2007')
+    fig = px.scatter_geo(df, locations='iso_alpha', color='continent',
+                         hover_name='country', size='pop', projection='natural earth')
+    fig.update_layout({
+        'height': 600
+    })
+    return fig
+
+
+@app.callback(
+    Output('graph_5', 'figure'),
+    [Input('submit_button', 'n_clicks')],
+    [State('dropdown', 'value'), State('range_slider', 'value'), State('check_list', 'value'),
+     State('radio_items', 'value')
+     ])
+def update_graph_5(n_clicks, dropdown_value, range_slider_value, check_list_value, radio_items_value):
+    print(n_clicks)
+    print(dropdown_value)
+    print(range_slider_value)
+    print(check_list_value)
+    print(radio_items_value)  # Sample data and figure
+    df = px.data.iris()
+    fig = px.scatter(df, x='sepal_width', y='sepal_length')
+    return fig
+
+
+@app.callback(
+    Output('graph_6', 'figure'),
+    [Input('submit_button', 'n_clicks')],
+    [State('dropdown', 'value'), State('range_slider', 'value'), State('check_list', 'value'),
+     State('radio_items', 'value')
+     ])
+def update_graph_6(n_clicks, dropdown_value, range_slider_value, check_list_value, radio_items_value):
+    print(n_clicks)
+    print(dropdown_value)
+    print(range_slider_value)
+    print(check_list_value)
+    print(radio_items_value)  # Sample data and figure
+    df = px.data.tips()
+    fig = px.bar(df, x='total_bill', y='day', orientation='h')
+    return fig
+
+# sample callback for Card
+@app.callback(
+    Output('card_title_1', 'children'),
+    [Input('submit_button', 'n_clicks')],
+    [State('dropdown', 'value'), State('range_slider', 'value'), State('check_list', 'value'),
+     State('radio_items', 'value')
+     ])
+def update_card_title_1(n_clicks, dropdown_value, range_slider_value, check_list_value, radio_items_value):
+    print(n_clicks)
+    print(dropdown_value)
+    print(range_slider_value)
+    print(check_list_value)
+    print(radio_items_value)  # Sample data and figure
+    return 'Card Tile 1 change by call back'
+
+
+@app.callback(
+    Output('card_text_1', 'children'),
+    [Input('submit_button', 'n_clicks')],
+    [State('dropdown', 'value'), State('range_slider', 'value'), State('check_list', 'value'),
+     State('radio_items', 'value')
+     ])
+def update_card_text_1(n_clicks, dropdown_value, range_slider_value, check_list_value, radio_items_value):
+    print(n_clicks)
+    print(dropdown_value)
+    print(range_slider_value)
+    print(check_list_value)
+    print(radio_items_value)  # Sample data and figure
+    return 'Card text change by call back'
+
+
+if __name__ == '__main__':
+    app.run_server(port='8085')
