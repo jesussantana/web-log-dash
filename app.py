@@ -6,6 +6,9 @@ from dash.dependencies import Input, Output, State
 
 import plotly.express as px
 
+import sys
+print(sys.version)
+
 # the style arguments for the sidebar.
 SIDEBAR_STYLE = {
     'position': 'fixed',

@@ -1,4 +1,4 @@
-#!/home/jesus/IT-Academy/Notebooks/Tascas/Registre_de_logs/web_log/venv/bin/python3
+#!/home/jesus/IT-Academy/Notebooks/Tascas/web-log-dash/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
