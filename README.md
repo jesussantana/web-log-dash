@@ -1,32 +1,32 @@
-# IT Academy - Data Science amb Python
+# IT Academy - Data Science with Python
 
-## Tasca 7: Transformació Registre Log amb Regular expressions
+## Task 7: Log Transformation with Regular Expressions
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
 [![wakatime](https://wakatime.com/badge/github/jesussantana/Registre_de_logs.svg)](https://wakatime.com/badge/github/jesussantana/Registre_de_logs) 
-### Descripció
+### Description
 
-L'anàlisi de registres és una funció important per al control i l'alerta, el compliment de les polítiques de seguretat, l'auditoria i el compliment normatiu, la resposta a incidents de seguretat i fins i tot les investigacions forenses. En analitzar les dades de registre, les empreses poden identificar més fàcilment les possibles amenaces i altres problemes, trobar la causa arrel i iniciar una resposta ràpida per mitigar els riscos.
+The analysis of registers is an important function for the control and the alert, the compliance of the security policies, the audit and the regulatory compliance, the response to incidents of security and fins and total forensic investigations. By analyzing the registration data, companies can more easily identify possible threats and problems, address the cause and initiate a rapid response to mitigate the risks.
 
-### Nivell 1
+### Level 1
 
-L'analista ha d'assegurar-se que els registres consisteixen en una gamma completa de missatges i s'interpreten segons el context. Els elements de registre han de normalitzar-se, utilitzant els mateixos termes o terminologia, per evitar confusions i proporcionar cohesió.
+The analyst has to make sure that the records consist of a complete range of missatges and are interpreted according to the context. The registration elements must be standardized, using the terms or terminology, to avoid confusion and provide cohesion..
 
-Com Científic de Dades se t'ha proporcionat accés als registres-Logs on queda registrada l'activitat de totes les visites a realitzades a la pàgina web de l'agència de viatges "akumenius.com".
+The Dades Scientist has provided access to the registrations-Logs on which the activity of totes visits to realities is registered at the website of the travel agency "akumenius.com".
 
-- Exercici 1:
-  - Normalitza, identifica i enumera cada un dels atributs / variables de l'estructura de l'arxiu "Web_access_log-akumenius.com" que trobaràs al repositori de GitHub "Data-sources".
+- Exercise 1:
+  - Normalize, identify, and enumerate each of the attributes / variables in the "Web_access_log-akumenius.com" file structure found in the GitHub repository "Data-sources".
 
-### Nivell 2
+### Level 2
 
-- Exercici 2:
-  - Neteja, preprocesa, estructura i transforma (dataframe) les dades del registre d'Accés a la web.
-- Exercici 3:
-  - Geolocalitza les IP's. Aqui tens una pagina de interes:
+- Exercise 2:
+  - Cleans, preprocesses, structures and transforms (dataframe) the data of the Web Access record.
+- Exercise 3:
+  - Geolocates IP's. Here is a page of interest:
   - [ip2geotools](https://pypi.org/project/ip2geotools/)
 
-### Nivell 3
+### Level 3
 
-- Exercici 4:
-  - Mostreu-me la teva creativitat, Sorprèn-me fes un pas més enllà amb el analysis anterior.
+- Exercise 4:
+  - Show me your creativity, Surprise me go one step further with the above analysis.
