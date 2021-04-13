@@ -4,4 +4,6 @@ dash-html-components
 dash-renderer
 dash
 requests
+pandas
+plotly
 gunicorn==19.6.0
