@@ -11,6 +11,7 @@ print(sys.version)
 
 path = r'data/Logs_export.csv'
 df = pd.read_csv(path, engine='python')
+df = df.sample(n=1000, random_state=1)
 
 df1= df.groupby('DNS')[['IP']].count().sort_values(by='IP',ascending=False).reset_index().head(5)
 df2 = df.groupby('COUNTRY_NAME')[['DNS']].count().sort_values(by='DNS',ascending=False).reset_index().head(5)
