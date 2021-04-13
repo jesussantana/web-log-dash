@@ -53,15 +53,16 @@ controls = dbc.FormGroup(
         dcc.Dropdown(
             id='dropdown',
             options=[{
-                'label': 'Date',
-                'value': df.DATE
-            }, {
-                'label': 'Country',
-                'value': df.COUNTRY_NAME
+                'label': 'Value One',
+                'value': 'value1'
             },
                 {
-                    'label': 'City',
-                    'value': df.CITY
+                    'label': 'Value Two',
+                    'value': 'value2'
+                },
+                {
+                    'label': 'Value Three',
+                    'value': 'value3'
                 }
             ],
             value=['value1'],  # default value
