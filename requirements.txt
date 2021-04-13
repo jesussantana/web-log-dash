@@ -4,4 +4,4 @@ dash-html-components
 dash-renderer
 dash
 requests
-gunicorn
+gunicorn==19.6.0
