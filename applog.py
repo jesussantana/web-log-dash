@@ -3,9 +3,18 @@ import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output, State
-
+import pandas as pd
 import plotly.express as px
 
+import sys
+print(sys.version)
+
+path = r'data/Logs-Aoo.csv'
+df = pd.read_csv(path, engine='python')
+
+df1= df.groupby('DNS')[['IP']].count().sort_values(by='IP',ascending=False).reset_index().head(5)
+df2 = df.groupby('COUNTRY_NAME')[['DNS']].count().sort_values(by='DNS',ascending=False).reset_index().head(5)
+df3 = df.groupby('CITY')[['DNS']].count().sort_values(by='DNS',ascending=False).reset_index().head(5)
 #CSS for the components
 # the style arguments for the sidebar.
 SIDEBAR_STYLE = {
@@ -35,7 +44,7 @@ CARD_TEXT_STYLE = {
     'color': '#0074D9'
 }
 
-# controls of the sidebar which consist of a dropdown, range slider, checklist, and radio buttons
+#controls of the sidebar which consist of a dropdown, range slider, checklist, and radio buttons
 controls = dbc.FormGroup(
     [
         html.P('Dropdown', style={
@@ -46,10 +55,11 @@ controls = dbc.FormGroup(
             options=[{
                 'label': 'Value One',
                 'value': 'value1'
-            }, {
-                'label': 'Value Two',
-                'value': 'value2'
             },
+                {
+                    'label': 'Value Two',
+                    'value': 'value2'
+                },
                 {
                     'label': 'Value Three',
                     'value': 'value3'
@@ -134,7 +144,7 @@ sidebar = html.Div(
     style=SIDEBAR_STYLE,
 )
 
-# the first row containing 4 cards
+# the first containing  cards
 content_first_row = dbc.Row([
     dbc.Col(
         dbc.Card(
@@ -142,9 +152,9 @@ content_first_row = dbc.Row([
 
                 dbc.CardBody(
                     [
-                        html.H4(id='card_title_1', children=['Card Title 1'], className='card-title',
+                        html.H4(id='card_title_1', children=['akumenius.com'], className='card-title',
                                 style=CARD_TEXT_STYLE),
-                        html.P(id='card_text_1', children=['Sample text.'], style=CARD_TEXT_STYLE),
+                        html.P(id='card_text_1', children=['Report'], style=CARD_TEXT_STYLE),
                     ]
                 )
             ]
@@ -234,12 +244,12 @@ content_fourth_row = dbc.Row(
 # The first row has 4 cards, the second row has 3 figures, the third row has one figure and the fourth row has 2 figures
 content = html.Div(
     [
-        html.H2('Analytics Dashboard Test Deploy', style=TEXT_STYLE),
+        html.H2('Analytics Dashboard', style=TEXT_STYLE),
         html.Hr(),
         content_first_row,
         content_second_row,
         content_third_row,
-        content_fourth_row
+        #content_fourth_row
     ],
     style=CONTENT_STYLE
 )
@@ -263,8 +273,11 @@ def update_graph_1(n_clicks, dropdown_value, range_slider_value, check_list_valu
     print(radio_items_value)
     fig = {
         'data': [{
-            'x': [1, 2, 3],
-            'y': [3, 4, 5]
+            'x': df1.DNS,
+            'y': df1.IP,
+            'type': 'bar',
+            'color': 'seagreen',
+            
         }]
     }
     return fig
@@ -284,9 +297,12 @@ def update_graph_2(n_clicks, dropdown_value, range_slider_value, check_list_valu
     print(radio_items_value)
     fig = {
         'data': [{
-            'x': [1, 2, 3],
-            'y': [3, 4, 5],
-            'type': 'bar'
+            'x': df2.DNS,
+            'y': df2.COUNTRY_NAME,
+            'type': 'bar',
+            'orientation':'h',
+            'color': 'salmon',
+            
         }]
     }
     return fig
@@ -304,8 +320,14 @@ def update_graph_3(n_clicks, dropdown_value, range_slider_value, check_list_valu
     print(range_slider_value)
     print(check_list_value)
     print(radio_items_value)
-    df = px.data.iris()
-    fig = px.density_contour(df, x='sepal_width', y='sepal_length')
+    fig = {
+        'data': [{
+            'x': df3.CITY,
+            'y': df3.DNS,
+            'type': 'bar',
+            'color': 'royalblue',
+        }]
+    }
     return fig
 
 
@@ -320,12 +342,14 @@ def update_graph_4(n_clicks, dropdown_value, range_slider_value, check_list_valu
     print(dropdown_value)
     print(range_slider_value)
     print(check_list_value)
-    print(radio_items_value)  # Sample data and figure
-    df = px.data.gapminder().query('year==2007')
-    fig = px.scatter_geo(df, locations='iso_alpha', color='continent',
-                         hover_name='country', size='pop', projection='natural earth')
+    print(radio_items_value)  
+    # Sample data and figure
+    fig = px.scatter_geo(df, lat=df.LATITUDE,
+                        lon=df.LONGITUDE,
+                        hover_name=df.CITY, 
+                        projection='natural earth')
     fig.update_layout({
-        'height': 600
+                        'height': 600
     })
     return fig
 
@@ -359,8 +383,8 @@ def update_graph_6(n_clicks, dropdown_value, range_slider_value, check_list_valu
     print(range_slider_value)
     print(check_list_value)
     print(radio_items_value)  # Sample data and figure
-    df = px.data.tips()
-    fig = px.bar(df, x='total_bill', y='day', orientation='h')
+    #df = px.data.tips()
+    fig = px.bar(df2, x='CITY', y='DNS', orientation='h')
     return fig
 
 # sample callback for Card
