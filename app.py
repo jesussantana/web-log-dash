@@ -15,6 +15,7 @@ df = pd.read_csv(path, engine='python')
 df1= df.groupby('DNS')[['IP']].count().sort_values(by='IP',ascending=False).reset_index().head(5)
 df2 = df.groupby('COUNTRY_NAME')[['DNS']].count().sort_values(by='DNS',ascending=False).reset_index().head(5)
 df3 = df.groupby('CITY')[['DNS']].count().sort_values(by='DNS',ascending=False).reset_index().head(5)
+
 #CSS for the components
 # the style arguments for the sidebar.
 SIDEBAR_STYLE = {
