@@ -9,7 +9,7 @@ import plotly.express as px
 import sys
 print(sys.version)
 
-path = r'data/Logs-Aoo.csv'
+path = r'data/Logs-App.csv'
 df = pd.read_csv(path, engine='python')
 
 df1= df.groupby('DNS')[['IP']].count().sort_values(by='IP',ascending=False).reset_index().head(5)
